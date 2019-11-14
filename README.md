@@ -6,17 +6,17 @@ The original purpose of this repository was to make simple neighbor-joining tree
 Although Platypus requires much less memory than other variant callers, it is still largely unable to handle cohorts > ~300.  For this reason, Platypus was run initially on the first 100 WiDiv samples, and then, newer samples were genotyped individually (again, using Platypus) at the SNPs identified from the initial run.  Following the individual-genotyping, VCF files are merged, filtered, and downsampled to ~50k sites.  This number of sites is typically sufficient for building an NJ tree, yet small enough not to crash R.
 
 # Requirements
-Platypus (v 0.8.1)
-bcftools v1.9
-cowplot v1.0.0
-lattice v0.20-38
-StAMPP  v1.5.1               
-pegas v0.12 
-ape v5.3
-adegraphics v1.0-15
-adegenet v2.1.1
-ade4 v1.7-13
-vcfR v1.8.0
+Platypus (v 0.8.1) \
+bcftools (v1.9) \
+cowplot (v1.0.0) \
+lattice (v0.20-38) \
+StAMPP  (v1.5.1) \
+pegas (v0.12) \
+ape (v5.3) \
+adegraphics (v1.0-15) \
+adegenet (v2.1.1) \
+ade4 (v1.7-13) \
+vcfR (v1.8.0)
 
 # Initial variant calling
 Variant calling for the initial 100 samples was performed via *scripts/Platypus_callVariants.sh* 
@@ -79,9 +79,9 @@ Navigate to the output folder containing all of the individually-genotyped VCFs 
 ## Filter samples
 I leave this as a separate step, so that the user can adjust the filtration criteria as they see fit.
 
-    bcftools filter -i 'F_PASS(GQ>10 & GT!="mis") > 0.5' <input_file> | bgzip > <output_file>
+    bcftools filter -i 'F_PASS(GQ>10 & GT!="mis") > 0.5 && && (N_PASS(GT="het") / N_SAMPLES) < 0.1' <input_file> | bgzip > <output_file>
     
-This call will keep only sites in which at least 50% of the samples have genotype quality greater than 10 and a non-missing genotype field. See http://samtools.github.io/bcftools/bcftools.html for additional filtration options.
+This call will keep only sites in which at least 50% of the samples have genotype quality greater than 10 and a non-missing genotype field. It will also filter sites with more than 20 heterozygous genotypes.  See http://samtools.github.io/bcftools/bcftools.html for additional filtration options.
 
 ## Downsampling
 Using the full VCF file will likely cause R to crash, so we downsample to a more manageable amount of data.  Downsampling is accomplished via the *shuf* command.  However, we must strip off the VCF header prior to running this command.
@@ -91,7 +91,7 @@ Using the full VCF file will likely cause R to crash, so we downsample to a more
     #Randomly downsample non-header lines
     zgrep -v "#" <filtered_vcf> | shuf -n 50000 | bgzip > tmp.vcf.gz
     #Reassemble and sort VCF
-    zcat head.vcf.gz tmp.vcf.gz | vcf-sort | bgzip > <final_filtered_downsampled_vcf>
+    zcat head.vcf.gz tmp.vcf.gz | bcftools sort | bgzip > <final_filtered_downsampled_vcf>
     tabix -p vcf <final_filtered_downsampled_vcf>
 
 Change the -n flag in the *shuf* command to sample more or less sites.
@@ -102,4 +102,4 @@ Making the NJ tree is accomplished within R.  Instead of creating a standard scr
 There are a number of accessory files, which facilitate labelling and coloring of samples (e.g. according to heterotic group).  I have included these files in *accessories*.
 
 # Specific Notes
-    
+
