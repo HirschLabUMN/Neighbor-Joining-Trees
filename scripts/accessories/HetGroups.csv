@@ -1,0 +1,1407 @@
+﻿No,Genotype,Category,MatGroup,PopGroup,1,2,3,4,5,6,7,8,Group,Pedigree,Pedigree - Comments,Acession Number or Source,Country,State,Reason for Discarding
+1,52220,Unique to Wisconsin Diversity Set,2,6,0.027,0.011,0.013,0.024,0.006,0.702,0.146,0.071,UK,.,.,Ames 2336,China,.,Included
+2,87014,Unique to Wisconsin Diversity Set,.,6,0.009,0.005,0.039,0.012,0.144,0.696,0.085,0.009,UK,TZMSR,.,PI 550920,Cameroon,.,Included
+3,89246,Unique to Wisconsin Diversity Set,.,6,0.07,0.011,0.018,0.016,0.025,0.8,0.021,0.039,UK,TZMSR,.,PI 550905,Cameroon,.,Included
+4,90220,Unique to Wisconsin Diversity Set,.,6,0.059,0.024,0.029,0.071,0.055,0.666,0.091,0.005,UK,SynA1 / 87014,.,PI 561609,Cameroon,.,Included
+5,04033V,Unique to Wisconsin Diversity Set,2,4,0.18,0.09,0.013,0.607,0.016,0.007,0.018,0.068,UK,Mexican_dent_germplasm (tuxpeno) / temperate_Sh2_sweet_corn,.,Dr. William Tracy (wftracy@wisc.edu),.,.,Included
+6,07108Vbt,Unique to Wisconsin Diversity Set,3,9,0.03,0.472,0.012,0.012,0.267,0.183,0.013,0.012,UK,Hawaiian_Supersweet / Excellency,.,Dr. William Tracy (wftracy@wisc.edu),.,.,Included
+720,11430,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601558,.,.,x
+723,13B-587-68(A),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358522,.,.,insufficient seed
+724,14H-588-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358523,.,.,x
+692,176,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233313,.,.,x
+725,197A-381-68(A),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358526,.,.,x
+726,2 KM 368 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267166,.,.,poor agronomic performance
+693,207,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601005,.,.,x
+727,21-396-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358535,.,.,x
+694,226,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233314,.,.,x
+716,2369,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601559,.,.,x
+695,245,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL8579,.,.,undesirable morpho-type
+696,277,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233315,.,.,undesirable morpho-type
+728,27A-317-68(C),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358525,.,.,x
+729,2MA22,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601560,.,.,x
+412,33-16,Goodman-Buckler Diversity Set,3,9,0.01,0.01,0.007,0.223,0.37,0.27,0.094,0.015,UK,Lux_Johnson_County_White,.,Ames 26771,United States,Indiana,Included
+413,38-11,Goodman-Buckler Diversity Set,3,5,0.009,0.059,0.077,0.021,0.639,0.014,0.15,0.031,UK,CI38B / C5-83-D,.,Ames 26604,United States,Indiana,Included
+730,38-11R  PARENT HB 19  INB,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2523,.,.,insufficient seed
+690,42,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233312,.,.,repeated pedigree
+414,4226,Goodman-Buckler Diversity Set,2,9,0.014,0.196,0.219,0.063,0.335,0.084,0.039,0.051,UK,Funk_90_Day,.,NSL 30904,United States,Illinois,Included
+731,442A-431-68(D),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358528,.,.,x
+732,4528. INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415077,.,.,undesirable morpho-type
+733,4533. INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415078,.,.,undesirable morpho-type
+734,4537. INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415079,.,.,undesirable morpho-type
+735,4550. INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415080,.,.,undesirable morpho-type
+7,4554_INBRED,Unique to Wisconsin Diversity Set,2,9,0.16,0.322,0.059,0.014,0.191,0.239,0.013,0.003,UK,.,.,PI 415081,Hungary,.,Included
+736,4554. INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415081,.,.,non-uniform
+737,4562 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415083,.,.,undesirable morpho-type
+738,4564 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415084,.,.,undesirable morpho-type
+739,4566 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415085,.,.,poor stand
+8,4578_INBRED,Unique to Wisconsin Diversity Set,3,9,0.014,0.011,0.016,0.028,0.205,0.345,0.01,0.37,UK,.,.,PI 415086,Hungary,.,Included
+740,4580 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415087,.,.,undesirable morpho-type
+741,4581 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415088,.,.,undesirable morpho-type
+742,4655 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415089,.,.,poor agronomic performance
+743,4659 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415090,.,.,non-uniform
+744,4664 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI415091,.,.,non-uniform
+745,4676A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601300,.,.,x
+697,469,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233316,.,.,x
+415,4722,Goodman-Buckler Diversity Set,3,2,0.004,0.644,0.01,0.116,0.004,0.137,0.081,0.003,Popcorn,4-29 /  4* 46,.,PI 587130,United States,Indiana,Included
+9,4F-234-BX-4,Unique to Wisconsin Diversity Set,3,6,0.07,0.118,0.009,0.064,0.009,0.689,0.022,0.019,UK,.,.,PI 198892,Argentina,.,Included
+10,4F-306_108,Unique to Wisconsin Diversity Set,3,6,0.137,0.266,0.036,0.015,0.013,0.519,0.01,0.003,UK,.,.,PI 198897,Argentina,.,Included
+11,4F-35-BK,Unique to Wisconsin Diversity Set,3,6,0.003,0.135,0.148,0.002,0.005,0.67,0.026,0.01,UK,.,.,PI 198888,Argentina,.,Included
+12,4F-403_JV_15,Unique to Wisconsin Diversity Set,4,6,0.032,0.231,0.015,0.039,0.01,0.648,0.008,0.016,Cateto,Cateto_race,.,PI 198906,Argentina,.,Included
+717,5261,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL15405,.,.,x
+718,5707,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601269,.,.,x
+698,592,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233317,.,.,x
+719,6103,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601159,.,.,x
+691,66,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26770,.,.,insufficient seed
+746,676A-348-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358532,.,.,poor stand
+699,740,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601489,.,.,x
+700,764,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601374,.,.,x
+701,778,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601375,.,.,x
+702,779,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601376,.,.,x
+747,78002A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601301,.,.,x
+721,78004,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601210,.,.,x
+722,78010,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601211,.,.,insufficient seed
+748,78371A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601438,.,.,x
+703,787,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601490,.,.,Late
+704,789,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233318,.,.,x
+705,790,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601491,.,.,x
+706,792,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL243016,.,.,x
+707,793,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601492,.,.,x
+708,794,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601377,.,.,x
+13,80-2,Unique to Wisconsin Diversity Set,2,9,0.119,0.372,0.015,0.022,0.164,0.135,0.119,0.054,UK,.,.,PI 369437,Poland,.,Included
+709,807,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601430,.,.,x
+749,81-1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL8581,.,.,insufficient seed
+710,829,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233319,.,.,undesirable morpho-type
+750,87916W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601563,.,.,insufficient seed
+711,883,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233320,.,.,undesirable morpho-type
+712,884,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233323,.,.,undesirable morpho-type
+751,89S4098,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12815,.,.,x
+752,89S4110,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12817,.,.,x
+753,89S4117,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12818,.,.,x
+754,89S4125,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12819,.,.,x
+755,89S4127,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12820,.,.,x
+756,89S4145,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12821,.,.,x
+757,89S4157,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12823,.,.,x
+758,89S4190,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames12824,.,.,x
+713,908,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233321,.,.,undesirable morpho-type
+714,909,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI233322,.,.,undesirable morpho-type
+715,991,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI593460,.,.,x
+14,A,Unique to Wisconsin Diversity Set,3,5,0.009,0.086,0.306,0.01,0.572,0.002,0.006,0.009,NSS,Funk_Yellow_Dent,.,NSL 30861,United States,Illinois,Included
+759,A116,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23394,.,.,x
+15,A12,Unique to Wisconsin Diversity Set,2,5,0.251,0.035,0.019,0.004,0.545,0.035,0.016,0.096,NSS,Minnesota_No_13,.,NSL 42873,United States,Minnesota,Included
+16,A15,Unique to Wisconsin Diversity Set,1,5,0.003,0.201,0.011,0.01,0.542,0.042,0.189,0.002,NSS,Minnesota_No_13,.,Ames 23389,United States,Minnesota,Included
+760,A152,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23395,.,.,no pedigree information
+17,A155,Unique to Wisconsin Diversity Set,1,9,0.009,0.243,0.017,0.004,0.424,0.024,0.273,0.006,UK,A39 / A26,.,Ames 23396,United States,Minnesota,Included
+761,A158,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23397,.,.,repeated pedigree
+762,A165,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL42877,.,.,repeated pedigree
+763,A166,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23398,.,.,repeated pedigree
+18,A171,Unique to Wisconsin Diversity Set,1,9,0.062,0.109,0.307,0.029,0.481,0.004,0.005,0.002,UK,.,.,NSL 42878,United States,Minnesota,Included
+416,A188,Goodman-Buckler Diversity Set,2,9,0.012,0.03,0.123,0.004,0.474,0.223,0.008,0.125,UK,64 / 5* 4-29,.,Ames 22443,United States,Minnesota,Included
+764,A201,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23399,.,.,repeated pedigree
+765,A203,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23400,.,.,repeated pedigree
+766,A204,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23401,.,.,repeated pedigree
+19,A208,Unique to Wisconsin Diversity Set,2,9,0.148,0.028,0.065,0.016,0.479,0.014,0.247,0.004,UK,C23 / 3* C11,.,Ames 23402,United States,Minnesota,Included
+628,A214N,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,(C49 / 2* C50 // C43,.,PI 406112,South Africa,KwaZulu-Natal,Late
+767,A218,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23403,.,.,repeated pedigree
+768,A223,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23404,.,.,repeated pedigree
+769,A238,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL81595,.,.,repeated pedigree
+417,A239,Goodman-Buckler Diversity Set,3,5,0.006,0.002,0.139,0.012,0.825,0.01,0.004,0.003,UK,A73 / A347,.,Ames 23405,United States,Minnesota,Included
+770,A251,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23406,.,.,repeated pedigree
+771,A257,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23407,.,.,repeated pedigree
+20,A258,Unique to Wisconsin Diversity Set,3,5,0.009,0.034,0.003,0.06,0.844,0.002,0.008,0.041,NSS,A73 / Os420,.,NSL 81596,United States,Minnesota,Included
+772,A260,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23408,.,.,no pedigree information
+773,A264,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23409,.,.,repeated pedigree
+418,A272,Goodman-Buckler Diversity Set,3,6,0.012,0.177,0.083,0.003,0.009,0.626,0.087,0.002,UK,.,.,Ames 27063,South Africa,KwaZulu-Natal,Included
+774,A286,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23413,.,.,repeated pedigree
+775,A288,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23414,.,.,repeated pedigree
+776,A295,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23415,.,.,repeated pedigree
+21,A305,Unique to Wisconsin Diversity Set,2,9,0.116,0.059,0.118,0.016,0.25,0.274,0.137,0.03,UK,C1 / H,.,Ames 23417,United States,Minnesota,Included
+777,A308,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23418,.,.,repeated pedigree
+778,A310,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23419,.,.,x
+779,A312,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23420,.,.,repeated pedigree
+22,A321,Unique to Wisconsin Diversity Set,2,5,0.014,0.032,0.194,0.002,0.746,0.005,0.005,0.002,NSS,.,Related to Ill.A,Ames 23421,United States,Minnesota,Included
+23,A322,Unique to Wisconsin Diversity Set,2,9,0.007,0.154,0.129,0.109,0.31,0.057,0.202,0.032,UK,15-28 / 8-29,.,Ames 23422,United States,Minnesota,Included
+24,A334,Unique to Wisconsin Diversity Set,2,9,0.018,0.258,0.009,0.013,0.376,0.197,0.091,0.038,UK,Golden_King,.,Ames 23423,United States,Minnesota,Included
+780,A340,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23424,.,.,x
+25,A344,Unique to Wisconsin Diversity Set,1,5,0.043,0.004,0.003,0.014,0.675,0.153,0.041,0.065,NSS,US_153,.,Ames 23425,United States,Minnesota,Included
+781,A357,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23426,.,.,x
+26,A374,Unique to Wisconsin Diversity Set,2,5,0.004,0.08,0.37,0.002,0.521,0.003,0.014,0.007,NSS,Reid_Yellow_Dent,.,Ames 23427,United States,Minnesota,Included
+27,A385,Unique to Wisconsin Diversity Set,1,5,0.011,0.179,0.209,0.024,0.556,0.009,0.01,0.002,NSS,15-28 / H // Rustler_White_Dent /Holbert_Yellow_Dent,.,Ames 23429,United States,Minnesota,Included
+28,A401,Unique to Wisconsin Diversity Set,2,5,0.186,0.011,0.045,0.003,0.631,0.093,0.027,0.004,NSS,A374 / K230,.,Ames 23430,United States,Minnesota,Included
+782,A407,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23431,.,.,no pedigree information
+29,A415-1-3_INBRED,Unique to Wisconsin Diversity Set,4,9,0.005,0.289,0.013,0.023,0.196,0.465,0.004,0.004,UK,.,.,PI 221773,South Africa,Transvaal,Included
+783,A422,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23433,.,.,no pedigree information
+784,A424,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23434,.,.,no pedigree information
+30,A427,Unique to Wisconsin Diversity Set,3,9,0.013,0.045,0.153,0.012,0.466,0.027,0.151,0.132,UK,CC36 / A405,.,Ames 23435,United States,Minnesota,Included
+419,A441-5,Goodman-Buckler Diversity Set,4,9,0.017,0.165,0.032,0.017,0.361,0.38,0.023,0.005,UK,Kr_Robyn / Leaming,.,Ames 27064,South Africa,.,Included
+785,A449,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23436,.,.,no pedigree information
+786,A450,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23437,.,.,no pedigree information
+787,A451,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23438,.,.,no pedigree information
+788,A480,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23439,.,.,no pedigree information
+789,A495,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23440,.,.,x
+790,A497,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23441,.,.,no pedigree information
+791,A498,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23442,.,.,x
+792,A499,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23443,.,.,no pedigree information
+793,A500,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23444,.,.,poor agronomic performance
+794,A502,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23445,.,.,repeated pedigree
+31,A508,Unique to Wisconsin Diversity Set,1,9,0.134,0.145,0.151,0.072,0.45,0.026,0.014,0.008,UK,A357 / Minnesota_No_13,.,Ames 23446,United States,Minnesota,Included
+795,A509,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23447,.,.,x
+796,A547,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23448,.,.,no pedigree information
+32,A548,Unique to Wisconsin Diversity Set,1,5,0.011,0.126,0.275,0.005,0.544,0.003,0.022,0.014,NSS,Pioneer_Long_Ear / 3* A375,.,Ames 23449,United States,Minnesota,Included
+420,A554,Goodman-Buckler Diversity Set,1,9,0.028,0.286,0.47,0.062,0.047,0.007,0.019,0.082,NSS,Wf9 / 3* WD,.,PI 587138,United States,Minnesota,Included
+421,A556,Goodman-Buckler Diversity Set,2,5,0.011,0.161,0.014,0.002,0.604,0.157,0.01,0.042,UK,B164-886 / A237,.,Ames 23450,United States,Minnesota,Included
+33,A572,Unique to Wisconsin Diversity Set,2,9,0.044,0.083,0.002,0.011,0.454,0.268,0.013,0.125,UK,.,.,Ames 23451,United States,Minnesota,Included
+797,A575,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23452,.,.,no pedigree information
+798,A588,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23455,.,.,no pedigree information
+629,A6,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Minnesota_No_13,.,Ames 27062,United States,North Carolina,Late
+799,A6 T123,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340822,.,.,x
+800,A617,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23456,.,.,no pedigree information
+422,A619,Goodman-Buckler Diversity Set,2,7,0.002,0.011,0.003,0.006,0.005,0.002,0.948,0.024,NSS,A171 / 2* Oh43,.,PI 587139,United States,Minnesota,Included
+801,A619HT,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23458,.,.,repeated pedigree
+802,A619Ht1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25219,.,.,repeated pedigree
+803,A619Ht2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25220,.,.,repeated pedigree
+804,A619Ht3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25221,.,.,repeated pedigree
+805,A624,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23460,.,.,repeated pedigree
+806,A625,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23461,.,.,no pedigree information
+34,A627,Unique to Wisconsin Diversity Set,2,9,0.09,0.121,0.209,0.026,0.483,0.014,0.041,0.016,NSS,A392 / R61,.,Ames 23463,United States,Minnesota,Included
+807,A628,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23464,.,.,no pedigree information
+808,A629,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23465,.,.,repeated pedigree
+809,A630,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23466,.,.,no pedigree information
+810,A631,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23467,.,.,repeated pedigree
+423,A632,Goodman-Buckler Diversity Set,2,1,0.984,0.002,0.001,0.002,0.002,0.002,0.004,0.003,SSS,Mt42 / 4* B14,.,PI 587140,United States,Minnesota,Included
+811,A632 +/sh2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26760,.,.,repeated pedigree
+812,A632 sh2/sh2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26761,.,.,repeated pedigree
+813,A632 su/su,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26762,.,.,repeated pedigree
+814,A632.75 A1 A2 C1 R1-r B1 Pl1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27451,.,.,repeated pedigree
+815,A632HT,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23468,.,.,repeated pedigree
+816,A632HTN,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23469,.,.,repeated pedigree
+817,A632RpRp,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23470,.,.,repeated pedigree
+818,A633,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23471,.,.,repeated pedigree
+424,A634,Goodman-Buckler Diversity Set,2,1,0.806,0.003,0.002,0.009,0.106,0.059,0.013,0.003,SSS,Mt42 / 2* B14,.,Ames 19308,United States,Minnesota,Included
+425,A635,Goodman-Buckler Diversity Set,2,1,0.866,0.002,0.01,0.003,0.005,0.004,0.107,0.002,SSS,ND203 / 3* B14,.,Ames 19309,United States,Minnesota,Included
+819,A635RpRp,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23473,.,.,repeated pedigree
+820,A636,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23474,.,.,repeated pedigree
+821,A637,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23475,.,.,x
+822,A638,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23476,.,.,x
+823,A640,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23477,.,.,repeated pedigree
+426,A641,Goodman-Buckler Diversity Set,2,9,0.448,0.045,0.099,0.003,0.147,0.011,0.244,0.004,SSS,ND203 / B14,.,Ames 19311,United States,Minnesota,Included
+824,A645,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23480,.,.,no pedigree information
+825,A646,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23481,.,.,no pedigree information
+35,A648,Unique to Wisconsin Diversity Set,3,9,0.036,0.215,0.134,0.156,0.348,0.005,0.101,0.006,NSS,Minnesota_Synthetic_3,.,NSL 81597,United States,Minnesota,Included
+36,A649,Unique to Wisconsin Diversity Set,1,5,0.139,0.07,0.074,0.003,0.69,0.004,0.007,0.013,NSS,V3 / 2* A321,.,Ames 23482,United States,Minnesota,Included
+826,A650,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23483,.,.,repeated pedigree
+37,A651,Unique to Wisconsin Diversity Set,2,5,0.005,0.198,0.166,0.029,0.566,0.004,0.027,0.004,NSS,Q573 / 2* A73,.,Ames 23484,United States,Minnesota,Included
+827,A653,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23486,.,.,repeated pedigree
+427,A654,Goodman-Buckler Diversity Set,1,9,0.032,0.007,0.45,0.004,0.425,0.036,0.043,0.002,NSS,A116 / Wf9,.,PI 587141,United States,Minnesota,Included
+828,A657,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL81598,.,.,x
+428,A659,Goodman-Buckler Diversity Set,2,5,0.015,0.045,0.177,0.086,0.579,0.003,0.079,0.017,NSS,Minnesota_Synthetic_3,.,NSL 81599,United States,Minnesota,Included
+829,A660,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL81600,.,.,x
+429,A661,Goodman-Buckler Diversity Set,1,9,0.014,0.362,0.048,0.024,0.367,0.03,0.126,0.028,UK,Minnesota_Synthetic_AS-A,.,PI 607521,United States,Minnesota,Included
+830,A662,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI607522,.,.,x
+38,A663,Unique to Wisconsin Diversity Set,2,9,0.007,0.051,0.186,0.006,0.49,0.017,0.118,0.126,UK,Cuzco / 3*A427,.,PI 607523,United States,Minnesota,Included
+831,A664,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI607524,.,.,poor stand
+832,A665,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI607525,.,.,x
+833,A667,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23491,.,.,x
+834,A668,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23492,.,.,x
+835,A669,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23493,.,.,x
+836,A670,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23494,.,.,repeated pedigree
+837,A671,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23495,.,.,x
+39,A672,Unique to Wisconsin Diversity Set,3,1,0.748,0.002,0.005,0.007,0.132,0.102,0.003,0.002,SSS,PI172326 / 3* A632,.,Ames 23496,United States,Minnesota,Included
+40,A673,Unique to Wisconsin Diversity Set,1,9,0.005,0.288,0.062,0.109,0.491,0.033,0.01,0.003,UK,UCD73,.,Ames 23497,United States,Minnesota,Included
+41,A674,Unique to Wisconsin Diversity Set,2,9,0.195,0.151,0.015,0.01,0.181,0.232,0.087,0.128,UK,ULR,.,Ames 23498,United States,Minnesota,Included
+838,A675,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23499,.,.,repeated pedigree
+839,A676,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23500,.,.,x
+840,A677,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23501,.,.,x
+841,A678,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23502,.,.,x
+430,A679,Goodman-Buckler Diversity Set,2,1,0.828,0.004,0.002,0.001,0.11,0.002,0.05,0.002,SSS,A662 / 4* B73,.,PI 587142,United States,Minnesota,Included
+431,A680,Goodman-Buckler Diversity Set,3,1,0.953,0.016,0.002,0.003,0.006,0.001,0.012,0.006,SSS,A662 / 4* B73,.,Ames 23503,United States,Minnesota,Included
+842,A681,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23504,.,.,repeated pedigree
+432,A682,Goodman-Buckler Diversity Set,2,8,0.003,0.01,0.017,0.014,0.102,0.085,0.01,0.759,NSS,Minnesota_AS-D / 3* Mo17,.,PI 587143,United States,Minnesota,Included
+843,A683,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23505,.,.,repeated pedigree
+844,A684su,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI567792,.,.,no pedigree information
+845,A685su,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI567793,.,.,no pedigree information
+846,A686su,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI567794,.,.,no pedigree information
+847,A7,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL42872,.,.,x
+42,A71,Unique to Wisconsin Diversity Set,2,9,0.007,0.16,0.006,0.015,0.322,0.249,0.229,0.012,NSS,Funk_Yellow_Dent,.,NSL 42875,United States,Minnesota,Included
+43,A73,Unique to Wisconsin Diversity Set,3,5,0.018,0.002,0.058,0.025,0.888,0.002,0.004,0.003,NSS,G3 / AR9,.,Ames 22439,United States,Minnesota,Included
+44,A797NW,Unique to Wisconsin Diversity Set,3,9,0.011,0.021,0.16,0.099,0.361,0.336,0.007,0.004,UK,HtN / 4* K64,.,PI 406130,South Africa,Natal,Included
+848,A90,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23392,.,.,x
+45,A96,Unique to Wisconsin Diversity Set,1,5,0.004,0.27,0.172,0.002,0.502,0.006,0.04,0.004,NSS,64 / H,.,Ames 23393,United States,Minnesota,Included
+630,Ab28A,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,GT152 / 38-11,.,Ames 18999,United States,Alabama,Late
+849,ABPl 2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22792,.,.,undesirable morpho-type
+850,ABPl 3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames10287,.,.,undesirable morpho-type
+851,ABPl 4,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22793,.,.,x
+852,ABPl 5,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22794,.,.,x
+46,AR202,Unique to Wisconsin Diversity Set,3,9,0.013,0.005,0.049,0.004,0.341,0.379,0.112,0.096,UK,Ab28 / Unknown,.,PI 561515,United States,Arkansas,Included
+47,AR228,Unique to Wisconsin Diversity Set,3,6,0.039,0.051,0.014,0.02,0.092,0.675,0.081,0.028,UK,ARK_SWCB_Synthetic,.,PI 561522,United States,Arkansas,Included
+48,AS5707,Unique to Wisconsin Diversity Set,3,8,0.003,0.138,0.007,0.004,0.006,0.027,0.129,0.686,NSS,C123Ht / Va9,.,PI 601269,.,.,Included
+49,AS6103,Unique to Wisconsin Diversity Set,2,1,0.791,0.002,0.199,0.001,0.002,0.002,0.002,0.002,SSS,AS10631 / A632 // 2* B14AHt,.,PI 601159,.,.,Included
+50,AusTRCF_306238,Unique to Wisconsin Diversity Set,3,8,0.005,0.063,0.056,0.028,0.207,0.069,0.007,0.565,NSS,.,.,NSL 437933,Australia,New South Wales,Included
+856,B-15 DENT STERILE,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340841,.,.,undesirable morpho-type
+857,B-16 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340847,.,.,poor agronomic performance
+858,B-17 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340850,.,.,undesirable morpho-type
+65,B-18,Unique to Wisconsin Diversity Set,2,2,0.349,0.631,0.005,0.004,0.004,0.004,0.003,0.001,Popcorn,.,.,PI 340855,United States,Iowa,Included
+859,B-22 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340857,.,.,poor agronomic performance
+67,B-28,Unique to Wisconsin Diversity Set,2,9,0.048,0.46,0.31,0.011,0.058,0.017,0.092,0.005,UK,Yellow_Pearl_Popcorn,.,PI 340860,United States,Iowa,Included
+861,B-4541,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340838,.,.,x
+878,B-WHO-201,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340839,.,.,x
+433,B10,Goodman-Buckler Diversity Set,3,1,0.56,0.004,0.056,0.056,0.308,0.003,0.009,0.005,SSS,Iowa_Stiff_Stalk_Synthetic,.,NSL 65865,United States,Iowa,Included
+853,B100,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI584529,.,.,repeated pedigree
+51,B101,Unique to Wisconsin Diversity Set,3,9,0.372,0.019,0.026,0.251,0.306,0.003,0.017,0.004,SSS,Iowa_Stiff_Stalk_Synthetic,.,PI 564852,United States,Iowa,Included
+854,B102,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594045,.,.,repeated pedigree
+434,B103,Goodman-Buckler Diversity Set,2,7,0.163,0.007,0.031,0.025,0.04,0.009,0.701,0.024,UK,Pool_41,.,PI 594046,United States,Iowa,Included
+435,B104,Goodman-Buckler Diversity Set,3,1,0.621,0.095,0.076,0.185,0.014,0.002,0.003,0.004,SSS,BS13,.,PI 594047,United States,Iowa,Included
+436,B105,Goodman-Buckler Diversity Set,2,9,0.287,0.021,0.042,0.144,0.416,0.009,0.067,0.015,SSS,Iowa_Stiff_Stalk_Synthetic,.,PI 594048,United States,Iowa,Included
+52,B106,Unique to Wisconsin Diversity Set,2,9,0.017,0.241,0.046,0.013,0.277,0.17,0.082,0.155,SSS,BS26,.,PI 594049,United States,Iowa,Included
+53,B107,Unique to Wisconsin Diversity Set,3,7,0.038,0.003,0.006,0.077,0.002,0.003,0.745,0.126,UK,Mex_41,.,PI 597925,United States,Iowa,Included
+54,B108,Unique to Wisconsin Diversity Set,3,9,0.108,0.038,0.008,0.003,0.169,0.469,0.073,0.131,UK,IA41,.,PI 597926,United States,Iowa,Included
+437,B109,Goodman-Buckler Diversity Set,3,1,0.826,0.002,0.002,0.162,0.002,0.002,0.002,0.002,SSS,BS20SC1 / 2* B73,.,PI 597927,United States,Iowa,Included
+55,B110,Unique to Wisconsin Diversity Set,3,9,0.383,0.057,0.111,0.28,0.055,0.003,0.003,0.108,SSS,BS13,.,PI 607382,United States,Iowa,Included
+56,B111,Unique to Wisconsin Diversity Set,3,9,0.232,0.014,0.003,0.367,0.338,0.003,0.011,0.031,SSS,Iowa_Stiff_Stalk_Synthetic,.,PI 607382,United States,Iowa,Included
+57,B112,Unique to Wisconsin Diversity Set,3,5,0.005,0.004,0.006,0.007,0.95,0.01,0.015,0.003,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,Iowa Committee for Agricultural Development (www.ag.iastate.edu/centers/cad/),.,.,Included
+58,B113,Unique to Wisconsin Diversity Set,3,9,0.102,0.006,0.079,0.156,0.276,0.162,0.208,0.011,UK,Pioneer_Two_Ear_Composite,.,PI 607383,United States,Iowa,Included
+59,B114,Unique to Wisconsin Diversity Set,3,7,0.037,0.003,0.006,0.076,0.002,0.003,0.746,0.128,UK,Mex_41,.,PI 607384,United States,Iowa,Included
+60,B115,Unique to Wisconsin Diversity Set,2,9,0.005,0.023,0.031,0.1,0.316,0.251,0.263,0.011,UK,Pioneer_Two_Ear_Composite,.,PI 615190,United States,Iowa,Included
+61,B118,Unique to Wisconsin Diversity Set,3,5,0.005,0.005,0.003,0.005,0.972,0.003,0.002,0.005,NSS,B97 / B99,.,PI 634212,United States,Iowa,Included
+62,B119,Unique to Wisconsin Diversity Set,3,9,0.481,0.035,0.025,0.209,0.207,0.006,0.005,0.032,SSS,BS13,.,PI 634213,United States,Iowa,Included
+63,B120,Unique to Wisconsin Diversity Set,3,5,0.006,0.003,0.004,0.006,0.97,0.003,0.004,0.006,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 634214,United States,Iowa,Included
+64,B121,Unique to Wisconsin Diversity Set,3,5,0.015,0.009,0.004,0.004,0.955,0.004,0.005,0.004,SSS,BS13,.,PI 634215,United States,Iowa,Included
+855,B14,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL65866,.,.,repeated pedigree
+439,B14A,Goodman-Buckler Diversity Set,2,1,0.991,0.001,0.001,0.001,0.002,0.001,0.001,0.001,SSS,Cuzco / 8* B14,.,PI 550461,United States,Iowa,Included
+440,B164,Goodman-Buckler Diversity Set,2,9,0.027,0.161,0.026,0.091,0.443,0.193,0.053,0.005,UK,Indiana_Reid,.,Ames 27066,United States,North Carolina,Included
+441,B2,Goodman-Buckler Diversity Set,3,5,0.078,0.012,0.095,0.081,0.528,0.008,0.186,0.013,NSS,Reid_Yellow_Dent,.,Ames 26769,United States,Indiana,Included
+66,B21,Unique to Wisconsin Diversity Set,3,9,0.132,0.164,0.141,0.012,0.331,0.078,0.139,0.003,UK,Fe / St65,.,NSL 65868,United States,Iowa,Included
+442,B37,Goodman-Buckler Diversity Set,3,4,0.001,0.001,0.001,0.995,0.001,0.001,0.001,0.001,SSS,Iowa_Stiff_Stalk_Synthetic,.,PI 550467,United States,Iowa,Included
+68,B42,Unique to Wisconsin Diversity Set,3,5,0.152,0.01,0.011,0.002,0.709,0.007,0.019,0.09,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 603939,United States,Iowa,Included
+860,B45,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550468,.,.,repeated pedigree
+443,B46,Goodman-Buckler Diversity Set,3,5,0.24,0.003,0.014,0.005,0.721,0.002,0.012,0.002,UK,W22 / B10,.,PI 550469,United States,Iowa,Included
+69,B47,Unique to Wisconsin Diversity Set,3,4,0.001,0.001,0.001,0.992,0.001,0.001,0.001,0.001,UK,A392 / R61,.,PI 601009,United States,Iowa,Included
+444,B52,Goodman-Buckler Diversity Set,3,9,0.072,0.006,0.394,0.041,0.451,0.017,0.017,0.003,UK,.,.,PI 550454,United States,Iowa,Included
+70,B54,Unique to Wisconsin Diversity Set,3,5,0.065,0.027,0.074,0.016,0.758,0.013,0.022,0.025,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 550470,United States,Iowa,Included
+862,B55,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI608764,.,.,x
+863,B56,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550471,.,.,x
+445,B57,Goodman-Buckler Diversity Set,3,9,0.036,0.053,0.009,0.061,0.366,0.265,0.198,0.011,Midland,Midland,.,PI 550472,United States,Iowa,Included
+864,B59,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550462,.,.,x
+446,B64,Goodman-Buckler Diversity Set,3,1,0.711,0.004,0.006,0.041,0.129,0.098,0.008,0.002,SSS,Maize_Amargo / 3* B14,.,PI 550440,United States,Iowa,Included
+71,B65,Unique to Wisconsin Diversity Set,3,3,0.001,0.001,0.993,0.001,0.001,0.001,0.001,0.001,NSS,Ky114 / 3* Wf9 // Maize_Amargo / 3* Wf9,.,PI 550463,United States,Iowa,Included
+72,B66,Unique to Wisconsin Diversity Set,3,7,0.002,0.005,0.008,0.003,0.16,0.011,0.674,0.137,UK,B33 / Oh43,.,PI 550464,United States,Iowa,Included
+865,B67,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550455,.,.,undesirable morpho-type
+447,B68,Goodman-Buckler Diversity Set,3,1,0.797,0.067,0.02,0.022,0.005,0.081,0.005,0.003,SSS,Maize_Amargo / 3* B14,.,PI 550465,United States,Iowa,Included
+73,B7,Unique to Wisconsin Diversity Set,3,5,0.021,0.003,0.162,0.004,0.64,0.005,0.162,0.002,NSS,Unknown / 6* I233,.,NSL 65863,United States,Iowa,Included
+74,B70,Unique to Wisconsin Diversity Set,3,8,0.003,0.014,0.011,0.06,0.014,0.014,0.229,0.654,NSS,M14 /C103,.,PI 550466,United States,Iowa,Included
+448,B73,Goodman-Buckler Diversity Set,2,1,0.993,0.001,0.001,0.001,0.001,0.001,0.001,0.001,SSS,Iowa_Stiff_Stalk_Synthetic,.,PI 550473,United States,Iowa,Included
+449,B73Htrhm,Goodman-Buckler Diversity Set,3,1,0.989,0.001,0.002,0.004,0.001,0.001,0.001,0.002,SSS,Iowa_Stiff_Stalk_Synthetic,.,Ames 27065,United States,North Carolina,Included
+450,B75,Goodman-Buckler Diversity Set,3,9,0.174,0.166,0.007,0.027,0.16,0.071,0.287,0.108,NSS,Iowa_Corn_Borer_Synthetic_No_3,.,PI 608774,United States,Iowa,Included
+451,B76,Goodman-Buckler Diversity Set,2,4,0.001,0.001,0.014,0.98,0.001,0.001,0.001,0.001,SSS,CI31A / 2* B37,.,PI 550483,United States,Iowa,Included
+452,B77,Goodman-Buckler Diversity Set,3,9,0.011,0.117,0.012,0.094,0.377,0.297,0.024,0.068,UK,Pioneer_Two_ear_Composite,.,PI 608765,United States,Iowa,Included
+453,B79,Goodman-Buckler Diversity Set,3,9,0.28,0.004,0.1,0.07,0.193,0.017,0.334,0.003,UK,Iowa_Two_ear_Synthetic_No_1,.,PI 608766,United States,Iowa,Included
+75,B8,Unique to Wisconsin Diversity Set,2,9,0.236,0.097,0.054,0.003,0.386,0.011,0.134,0.079,UK,Burr_White,.,NSL 65864,United States,Iowa,Included
+454,B84,Goodman-Buckler Diversity Set,3,1,0.653,0.055,0.015,0.174,0.075,0.004,0.014,0.011,SSS,BS13,.,PI 608767,United States,Iowa,Included
+866,B84 +/su,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26763,.,.,repeated pedigree
+76,B85,Unique to Wisconsin Diversity Set,2,9,0.003,0.161,0.071,0.061,0.1,0.222,0.21,0.172,UK,BSCB6,.,PI 608777,United States,Iowa,Included
+867,B86,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI608778,.,.,late
+77,B87,Unique to Wisconsin Diversity Set,2,9,0.204,0.017,0.015,0.011,0.4,0.023,0.145,0.184,UK,BS22,.,PI 608768,United States,Iowa,Included
+78,B88,Unique to Wisconsin Diversity Set,3,9,0.173,0.039,0.169,0.02,0.182,0.025,0.361,0.032,UK,BS6,.,PI 550556,United States,Iowa,Included
+868,B89,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI509542,.,.,x
+79,B90,Unique to Wisconsin Diversity Set,3,5,0.009,0.004,0.006,0.031,0.917,0.02,0.007,0.005,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 527699,United States,Iowa,Included
+80,B91,Unique to Wisconsin Diversity Set,3,5,0.025,0.003,0.003,0.003,0.954,0.002,0.002,0.007,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 527700,United States,Iowa,Included
+869,B92,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI539870,.,.,x
+870,B93,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI539871,.,.,x
+871,B94,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI539872,.,.,x
+872,B95,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI561565,.,.,x
+455,B97,Goodman-Buckler Diversity Set,3,5,0.013,0.004,0.004,0.038,0.932,0.004,0.002,0.005,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 564682,United States,Iowa,Included
+81,B98,Unique to Wisconsin Diversity Set,3,9,0.03,0.169,0.159,0.022,0.261,0.236,0.101,0.022,UK,Pioneer_Two_Ear_Composite,.,PI 564683,United States,Iowa,Included
+82,B99,Unique to Wisconsin Diversity Set,3,5,0.003,0.009,0.002,0.002,0.978,0.003,0.002,0.002,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 584528,United States,Iowa,Included
+83,B99,Unique to Wisconsin Diversity Set,3,5,0.003,0.006,0.002,0.002,0.981,0.003,0.002,0.002,NSS,Iowa_Corn_Borer_Synthetic_No_1,.,PI 584528,United States,Iowa,Included
+873,BAI TOU SHUANG IN.(JI 095,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405711,.,.,non-uniform
+84,BEI-10,Unique to Wisconsin Diversity Set,2,9,0.039,0.128,0.051,0.015,0.274,0.419,0.07,0.003,UK,.,.,Ames 2332,China,.,Included
+874,BO9,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601007,.,.,x
+875,BR-17 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340851,.,.,undesirable morpho-type
+876,BR-22,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340858,.,.,x
+877,BR-28 INBR.FR.YEL.PEARL,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340861,.,.,x
+85,C102,Unique to Wisconsin Diversity Set,3,9,0.002,0.244,0.007,0.049,0.359,0.141,0.029,0.167,NSS,Lancaster_SureCrop,.,NSL 22983,United States,Connecticut,Included
+456,C103,Goodman-Buckler Diversity Set,3,8,0.005,0.006,0.003,0.002,0.004,0.002,0.002,0.978,NSS,Lancaster_SureCrop,.,Ames 19284,United States,Connecticut,Included
+879,C12-1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22015,.,.,undesirable morpho-type
+457,C123,Goodman-Buckler Diversity Set,2,8,0.003,0.209,0.006,0.006,0.067,0.008,0.014,0.689,NSS,C102 / C103,.,Ames 19313,United States,Connecticut,Included
+880,C13,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI587126,.,.,undesirable morpho-type
+86,C15,Unique to Wisconsin Diversity Set,2,2,0.008,0.853,0.003,0.016,0.01,0.005,0.004,0.1,Sweet Corn,Black_Mexican / Spanish_Gold,.,Ames 22016,United States,Connecticut,Included
+881,C18,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22017,.,.,undesirable morpho-type
+882,C22,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22018,.,.,undesirable morpho-type
+883,C27,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22019,.,.,undesirable morpho-type
+884,C3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26812,.,.,undesirable morpho-type
+885,C31,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22020,.,.,undesirable morpho-type
+886,C38,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22021,.,.,undesirable morpho-type
+887,C38,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23506,.,.,undesirable morpho-type
+888,C40,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22022,.,.,non-uniform
+87,C42,Unique to Wisconsin Diversity Set,1,2,0.001,0.984,0.002,0.002,0.002,0.002,0.002,0.005,Sweet Corn,Minnesota_No_13,.,Ames 23507,United States,Minnesota,Included
+458,C49A,Goodman-Buckler Diversity Set,2,9,0.004,0.082,0.03,0.127,0.395,0.345,0.008,0.009,NSS,Minnesota_No_13,.,Ames 27067,United States,North Carolina,Included
+889,C5,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26813,.,.,undesirable morpho-type
+88,C68,Unique to Wisconsin Diversity Set,3,2,0.005,0.858,0.007,0.011,0.003,0.011,0.044,0.059,Sweet Corn,Northwestern_Dent,.,Ames 22023,United States,Connecticut,Included
+890,C7,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22012,.,.,undesirable morpho-type
+891,C7e,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22013,.,.,undesirable morpho-type
+892,C8 pseudo,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22014,.,.,undesirable morpho-type
+893,C90,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22024,.,.,undesirable morpho-type
+894,CA-15-1 DENT STERILE,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340842,.,.,undesirable morpho-type
+895,CA-15-2 DENT STERILE,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340843,.,.,undesirable morpho-type
+89,CA-4,Unique to Wisconsin Diversity Set,3,2,0.006,0.577,0.004,0.008,0.004,0.343,0.005,0.052,Popcorn,.,.,PI 340836,United States,Iowa,Included
+90,CG10,Unique to Wisconsin Diversity Set,2,9,0.013,0.199,0.027,0.015,0.352,0.161,0.158,0.074,UK,European_Material,.,Ames 24585,Canada,Ontario,Included
+91,CG102,Unique to Wisconsin Diversity Set,1,9,0.482,0.048,0.034,0.121,0.232,0.013,0.014,0.056,SSS,CG_Stiff_Stalk_Combined_C2,.,Dr. Elizabeth Lee - University of Guelph ( lizlee@uoguelph.ca),.,.,Included
+92,CG106,Unique to Wisconsin Diversity Set,2,5,0.046,0.038,0.005,0.018,0.609,0.024,0.256,0.004,NSS,CG33 / CG34 // BSL_S4_C7 / CGSyn_A_NL,.,Dr. Elizabeth Lee - University of Guelph ( lizlee@uoguelph.ca),.,.,Included
+93,CG108,Unique to Wisconsin Diversity Set,1,9,0.025,0.012,0.014,0.125,0.057,0.005,0.43,0.332,Iodent,Pioneer3902,.,Dr. Elizabeth Lee - University of Guelph ( lizlee@uoguelph.ca),.,.,Included
+94,CG65,Unique to Wisconsin Diversity Set,2,7,0.437,0.002,0.002,0.006,0.006,0.003,0.542,0.002,SSS,Pioneer3803,.,Dr. Elizabeth Lee - University of Guelph ( lizlee@uoguelph.ca),.,.,Included
+95,CH157,Unique to Wisconsin Diversity Set,2,5,0.104,0.07,0.031,0.048,0.548,0.012,0.172,0.015,UK,.,.,Ames 22441,Canada,Ontario,Included
+459,CH701-30,Goodman-Buckler Diversity Set,2,9,0.042,0.089,0.238,0.038,0.401,0.138,0.048,0.006,UK,.,.,Ames 27069,Canada,Ontario,Included
+896,CH705-8,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27017,.,.,x
+96,CH711-10,Unique to Wisconsin Diversity Set,2,9,0.006,0.017,0.48,0.003,0.073,0.013,0.005,0.403,UK,.,.,Ames 27018,Canada,Ontario,Included
+897,CH741-6,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27020,.,.,x
+97,CH753-4,Unique to Wisconsin Diversity Set,2,1,0.827,0.005,0.023,0.004,0.008,0.003,0.126,0.004,UK,.,.,Ames 27021,Canada,Ontario,Included
+460,CH9,Goodman-Buckler Diversity Set,1,9,0.013,0.003,0.431,0.017,0.231,0.271,0.012,0.021,UK,Funks_G176,.,Ames 27068,Canada,Ontario,Included
+898,CHAN 11 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405705,.,.,x
+899,CHI-41,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391660,.,.,insufficient seed
+900,CHI-503,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391667,.,.,insufficient seed
+901,CHI-69 INB.,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405706,.,.,x
+98,Chi-tan_120,Unique to Wisconsin Diversity Set,2,9,0.01,0.177,0.09,0.027,0.324,0.148,0.22,0.004,UK,.,.,PI 427111,China,Jilin,Included
+902,CI 1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26114,.,.,late
+903,CI 11B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26118,.,.,late
+904,CI 127,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze127,.,.,late
+905,CI 19,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26119,.,.,late
+906,CI 2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26115,.,.,late
+907,CI 20,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26120,.,.,late
+908,CI 23,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze23,.,.,late
+909,CI 24,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28950,.,.,late
+910,CI 27,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze27,.,.,late
+911,CI 28,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26121,.,.,late
+912,CI 28B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26122,.,.,late
+913,CI 28C,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26123,.,.,late
+914,CI 29B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze29,.,.,late
+915,CI 3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze3,.,.,late
+916,CI 30,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26124,.,.,late
+917,CI 31,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26125,.,.,late
+918,CI 317B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze317,.,.,late
+919,CI 32,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26126,.,.,late
+920,CI 34,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26127,.,.,late
+921,CI 38B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze38,.,.,late
+922,CI 40A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze40,.,.,late
+923,CI 41,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26129,.,.,late
+924,CI 42A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze42,.,.,late
+925,CI 42B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28951,.,.,late
+926,CI 43,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28952,.,.,late
+927,CI 44,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze44,.,.,late
+928,CI 46,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26130,.,.,late
+929,CI 49A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze49,.,.,late
+930,CI 4A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28948,.,.,late
+931,CI 64,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze64,.,.,late
+932,CI 7 Goodman-Buckler,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28367,.,.,repeated pedigree
+933,CI 70,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26131,.,.,late
+934,CI 74,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26133,.,.,late
+935,CI 75,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26134,.,.,undesirable morpho-type
+936,CI 7A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26117,.,.,late
+937,CI 81B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze81,.,.,late
+938,CI 82A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze82,.,.,late
+939,CI 83A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze83,.,.,late
+940,CI 84B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26136,.,.,late
+941,CI 85B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze85,.,.,late
+942,CI 86B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze86,.,.,late
+943,CI 88A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze88,.,.,late
+944,CI 91B Goodman-Buckler,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28365,.,.,repeated pedigree
+945,CI 91C,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26137,.,.,repeated pedigree
+946,CI 92,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28953,.,.,no pedigree information
+99,CI-40H,Unique to Wisconsin Diversity Set,2,9,0.006,0.188,0.005,0.09,0.454,0.003,0.153,0.1,UK,.,.,Ames 26128,United States,Missouri,Included
+100,CI_540,Unique to Wisconsin Diversity Set,3,9,0.206,0.104,0.089,0.277,0.208,0.016,0.084,0.016,UK,Illinois_Two_Ear,.,Ames 26028,United States,Missouri,Included
+101,CI_82B,Unique to Wisconsin Diversity Set,3,9,0.044,0.019,0.145,0.011,0.48,0.162,0.006,0.133,UK,Pd2287-1 / R39,.,Ames 26135,United States,Missouri,Included
+102,CI_89B,Unique to Wisconsin Diversity Set,3,9,0.092,0.011,0.061,0.039,0.258,0.236,0.287,0.016,UK,L97 / Tr,Blight resistant isolated strain,CIze 89,United States,.,Included
+461,CI187-2,Goodman-Buckler Diversity Set,3,9,0.065,0.135,0.207,0.033,0.07,0.297,0.191,0.002,NSS,Krug,.,Ames 26138,United States,Missouri,Included
+462,CI21E,Goodman-Buckler Diversity Set,3,9,0.139,0.005,0.14,0.031,0.298,0.215,0.098,0.075,UK,CI21 / Hy,.,CIze 21,United States,.,Included
+463,CI28A,Goodman-Buckler Diversity Set,4,5,0.034,0.007,0.011,0.096,0.554,0.245,0.039,0.014,UK,.,B2 Recovery,CIze 28,United States,.,Included
+464,CI31A,Goodman-Buckler Diversity Set,3,9,0.008,0.111,0.088,0.157,0.233,0.311,0.086,0.006,Midland,Midland,.,Ames 21512,United States,Iowa,Included
+465,CI3A,Goodman-Buckler Diversity Set,4,9,0.15,0.071,0.034,0.095,0.239,0.179,0.169,0.062,UK,(CI3 3* / Unknown,.,Ames 26116,United States,Missouri,Included
+947,CI45,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze45,.,.,x
+466,CI64,Goodman-Buckler Diversity Set,3,6,0.006,0.017,0.104,0.025,0.266,0.573,0.004,0.005,UK,Recovered_blight_resistant_K64,.,Ames 19314,United States,.,Included
+631,CI66,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,L97 / 2* K55,.,PI 587148,United States,.,Late
+948,CI7,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze7,.,.,x
+949,CI90A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,CIze90,.,.,x
+467,CI90C,Goodman-Buckler Diversity Set,3,9,0.011,0.078,0.237,0.06,0.158,0.099,0.35,0.007,UK,.,.,Ames 22440,United States,.,Included
+468,CI91B,Goodman-Buckler Diversity Set,3,9,0.164,0.009,0.2,0.065,0.253,0.003,0.019,0.287,UK,L97 / A71,.,Ames 28365,United States,.,Included
+103,CL17,Unique to Wisconsin Diversity Set,2,9,0.009,0.279,0.034,0.013,0.296,0.175,0.148,0.047,UK,European / Howes_Alberta / Sask_White_Flints,.,Ames 27024,Canada,Ontario,Included
+104,CL18,Unique to Wisconsin Diversity Set,2,9,0.005,0.328,0.005,0.004,0.342,0.183,0.106,0.027,UK,European / Howes_Alberta / Sask_White_Flints,.,Ames 27025,Canada,Ontario,Included
+950,CL19,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27026,.,.,too early
+105,CL22,Unique to Wisconsin Diversity Set,2,5,0.01,0.255,0.034,0.076,0.503,0.039,0.004,0.078,UK,Prides // New_England_Flint_OA / ACA179,.,Ames 27028,Canada,Ontario,Included
+106,CL27,Unique to Wisconsin Diversity Set,2,9,0.008,0.456,0.042,0.1,0.211,0.013,0.167,0.003,UK,CO106 / CO109 // New_England_Flint_OA / ACA179,.,Ames 27029,Canada,Ontario,Included
+469,CM105,Goodman-Buckler Diversity Set,2,1,0.609,0.004,0.004,0.005,0.363,0.002,0.012,0.003,SSS,V3 / 2* B14,.,PI 587124,Canada,Manitoba,Included
+951,CM145,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27032,.,.,too early
+952,CM151,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27033,.,.,too early
+953,CM155,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27034,.,.,too early
+954,CM169,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27035,.,.,too early
+470,CM174,Goodman-Buckler Diversity Set,1,1,0.588,0.004,0.005,0.008,0.375,0.002,0.014,0.004,SSS,.,.,Ames 19316,Canada,Manitoba,Included
+955,CM182,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27036,.,.,too early
+956,CM234,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27037,.,.,too early
+471,CM37,Goodman-Buckler Diversity Set,1,2,0.078,0.648,0.019,0.012,0.189,0.003,0.006,0.045,Semi Flint,KE_3,.,Ames 20190,Canada,Manitoba,Included
+107,CM48,Unique to Wisconsin Diversity Set,2,2,0.024,0.658,0.016,0.003,0.256,0.004,0.016,0.023,Semi Flint,.,Selection from Greece,Ames 22747,Canada,Manitoba,Included
+472,CM7,Goodman-Buckler Diversity Set,1,9,0.005,0.217,0.009,0.082,0.401,0.058,0.093,0.135,UK,W85 / CMV3,.,Ames 27070,Canada,Manitoba,Included
+108,CM99,Unique to Wisconsin Diversity Set,1,1,0.59,0.005,0.004,0.008,0.374,0.002,0.015,0.002,SSS,V3 / 2* B14,.,Ames 27031,Canada,Manitoba,Included
+632,CML10,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White-Late,Ames 27072,Mexico,Federal District,Late
+633,CML103,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pool_44,Subtropical white-intermediate,Ames 27081,Mexico,Federal District,Late
+473,CML108,Goodman-Buckler Diversity Set,4,6,0.006,0.005,0.074,0.166,0.033,0.688,0.005,0.023,Tropical,Pool_44,Subtropical white-intermediate,Ames 27082,Mexico,Federal District,Included
+634,CML11,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White-Late,Ames 27258,Mexico,Federal District,Late
+635,CML14,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White-intermediate,Ames 27074,Mexico,Federal District,Late
+474,CML154Q,Goodman-Buckler Diversity Set,4,6,0.059,0.006,0.025,0.064,0.01,0.815,0.013,0.008,Tropical,Pop_62,QPM,Ames 27083,Mexico,Federal District,Included
+636,CML157Q,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_62,QPM,Ames 27084,Mexico,Federal District,Late
+637,CML158Q,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_62,QPM,Ames 27085,Mexico,Federal District,Late
+475,CML218,Goodman-Buckler Diversity Set,4,6,0.003,0.019,0.001,0.003,0.005,0.962,0.004,0.004,Tropical,EV,Tropical White resistant to MSV-intermediate,Ames 27086,Mexico,Federal District,Included
+476,CML220,Goodman-Buckler Diversity Set,3,6,0.095,0.031,0.163,0.007,0.013,0.676,0.007,0.008,Tropical,EV,Tropical White resistant to MSV-Early,Ames 27087,Mexico,Federal District,Included
+638,CML228,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Suwan-1 /SR,.,Ames 27088,Mexico,Federal District,Late
+639,CML238,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,LB /SR,.,Ames 27089,Mexico,Federal District,Late
+640,CML247,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pool_24,Tropical White,PI 595541,Mexico,Federal District,Late
+641,CML254,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White,PI 595542,Mexico,Federal District,Late
+642,CML258,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White,Ames 27090,Mexico,Federal District,Late
+643,CML261,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White,Ames 27091,Mexico,Federal District,Late
+644,CML264,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White,PI 595544,Mexico,Federal District,Late
+645,CML277,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_43,Tropical White,PI 595550,Mexico,Federal District,Late
+646,CML281,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_43,Tropical White,Ames 27092,Mexico,Federal District,Late
+647,CML287,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_24,Tropical Yellow,PI 595565,Mexico,Federal District,Late
+648,CML311,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_500,Subtropical White,Ames 27093,Mexico,Federal District,Late
+649,CML314,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_600,Subtropical White,Ames 27094,Mexico,Federal District,Late
+650,CML321,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_502,Subtropical White,Ames 27095,Mexico,Federal District,Late
+477,CML322,Goodman-Buckler Diversity Set,3,6,0.009,0.006,0.036,0.008,0.038,0.784,0.116,0.002,Tropical,Recy_W,.,Ames 27096,Mexico,Federal District,Included
+478,CML323,Goodman-Buckler Diversity Set,3,6,0.037,0.129,0.082,0.028,0.018,0.563,0.112,0.029,Tropical,Pop_33,Subtropical Yellow,Ames 27097,Mexico,Federal District,Included
+651,CML328,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Recy_Y,.,Ames 27098,Mexico,Federal District,Late
+652,CML331,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Suwan (Pop_47) / Mp78:518,.,Ames 27099,Mexico,Federal District,Late
+653,CML332,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Suwan (Pop_47) / Mp78:518,.,Ames 27100,Mexico,Federal District,Late
+654,CML333,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_590,Subtropical lines resistant to insects,Ames 27101,Mexico,Federal District,Late
+655,CML341,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_43,Subtropical lines resistant to drought and insects,Ames 27102,Mexico,Federal District,Late
+656,CML38,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_32,.,PI 595534,Mexico,Federal District,Late
+657,CML45,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_43,Tropical White-Late,Ames 27076,Mexico,Federal District,Late
+658,CML5,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White-Late,Ames 27071,Mexico,Federal District,Late
+659,CML52,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_79,Tropical White-Late,PI 595561,Mexico,Federal District,Late
+660,CML61,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_21,Tropical White-Late,Ames 27078,Mexico,Federal District,Late
+661,CML69,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pop_67,Tropical White-Late,Ames 28184,Mexico,Federal District,Late
+662,CML77,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pool_32,Subtropical white-intermediate,Ames 28185,Mexico,Federal District,Late
+479,CML91,Goodman-Buckler Diversity Set,3,6,0.066,0.003,0.051,0.006,0.181,0.62,0.067,0.005,Tropical,Pool_42,Subtropical white-intermediate,Ames 27079,Mexico,Federal District,Included
+663,CML92,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pool_42,Subtropical white-late,Ames 27080,Mexico,Federal District,Late
+480,CMV3,Goodman-Buckler Diversity Set,1,9,0.16,0.227,0.058,0.005,0.492,0.008,0.034,0.017,UK,A21 / W185,.,Ames 27038,Canada,Manitoba,Included
+481,CO106,Goodman-Buckler Diversity Set,1,9,0.004,0.149,0.021,0.013,0.455,0.344,0.013,0.003,UK,CR11,.,Ames 27105,Canada,Ontario,Included
+957,CO109,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI587125,.,.,poor agronomic performance
+109,CO117,Unique to Wisconsin Diversity Set,1,9,0.005,0.048,0.038,0.093,0.429,0.322,0.041,0.024,UK,Pioneer_6124,.,Ames 27039,Canada,Ontario,Included
+482,CO125,Goodman-Buckler Diversity Set,1,5,0.007,0.219,0.007,0.077,0.616,0.039,0.025,0.009,NSS,.,.,Ames 27106,Canada,Ontario,Included
+958,CO150,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27041,.,.,x
+110,CO158,Unique to Wisconsin Diversity Set,2,9,0.109,0.104,0.002,0.006,0.376,0.115,0.284,0.004,UK,Dekalb_46,.,Ames 27042,Canada,Ontario,Included
+111,CO192,Unique to Wisconsin Diversity Set,2,9,0.008,0.22,0.003,0.169,0.348,0.239,0.006,0.006,UK,167-8-5 / 4* 1S2,.,Ames 27043,Canada,Ontario,Included
+112,CO216,Unique to Wisconsin Diversity Set,2,9,0.04,0.154,0.004,0.004,0.35,0.079,0.352,0.017,UK,Pride,.,Ames 27044,Canada,Ontario,Included
+959,CO220,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27045,.,.,x
+113,CO236,Unique to Wisconsin Diversity Set,2,9,0.087,0.189,0.005,0.007,0.221,0.303,0.146,0.043,UK,Pride_5,.,Ames 27046,Canada,Ontario,Included
+114,CO237,Unique to Wisconsin Diversity Set,2,9,0.017,0.126,0.03,0.132,0.43,0.227,0.028,0.009,UK,59-946-1370-7-28,.,Ames 27047,Canada,Ontario,Included
+115,CO245,Unique to Wisconsin Diversity Set,1,9,0.005,0.274,0.007,0.01,0.499,0.182,0.01,0.012,UK,Inra_260,.,Ames 27048,Canada,Ontario,Included
+483,CO255,Goodman-Buckler Diversity Set,1,9,0.003,0.483,0.015,0.043,0.146,0.268,0.027,0.015,UK,Inra_258,.,Ames 27050,Canada,Ontario,Included
+116,CO256,Unique to Wisconsin Diversity Set,2,9,0.094,0.008,0.009,0.217,0.421,0.007,0.238,0.006,SSS,Iowa_Stiff_Stalk_Synthetic,.,Ames 27051,Canada,Ontario,Included
+117,CO257,Unique to Wisconsin Diversity Set,2,9,0.296,0.003,0.007,0.264,0.402,0.002,0.016,0.009,SSS,Iowa_Stiff_Stalk_Synthetic,.,Ames 27052,Canada,Ontario,Included
+118,CO258,Unique to Wisconsin Diversity Set,2,9,0.349,0.002,0.071,0.212,0.316,0.003,0.04,0.008,SSS,Iowa_Stiff_Stalk_Synthetic,.,Ames 27053,Canada,Ontario,Included
+960,CR 2 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267164,.,.,non-uniform
+119,CR-22,Unique to Wisconsin Diversity Set,2,9,0.041,0.14,0.089,0.008,0.385,0.016,0.282,0.039,UK,.,.,PI 267165,Former Soviet Union,.,Included
+120,CR1HT,Unique to Wisconsin Diversity Set,2,8,0.129,0.006,0.006,0.007,0.065,0.042,0.016,0.729,NSS,W117Ht / Mo17Ht,.,PI 601080,United States,.,Included
+121,CSJ3,Unique to Wisconsin Diversity Set,1,9,0.005,0.176,0.08,0.004,0.448,0.008,0.248,0.031,UK,.,.,Ames 27057,Canada,Ontario,Included
+664,D940Y,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,M37W / 21A / Jellicourse / C103,.,Ames 27108,South Africa,KwaZulu-Natal,Late
+961,DA BA TANG INB. (JI 0241),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405712,.,.,non-uniform
+962,DA JIN DING (JI 0018),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405713,.,.,non-uniform
+484,DE_2,Goodman-Buckler Diversity Set,3,7,0.07,0.004,0.143,0.041,0.007,0.042,0.679,0.014,UK,.,.,PI 606330,United States,Delaware,Included
+485,DE1,Goodman-Buckler Diversity Set,3,7,0.052,0.006,0.193,0.032,0.006,0.033,0.651,0.027,UK,P3140 / P3751,.,PI 606329,United States,Delaware,Included
+122,DE3,Unique to Wisconsin Diversity Set,3,9,0.011,0.012,0.074,0.01,0.013,0.34,0.397,0.144,UK,DKXL212 / N11a,.,PI 638551,United States,Delaware,Included
+123,DE4,Unique to Wisconsin Diversity Set,3,9,0.097,0.109,0.024,0.009,0.09,0.274,0.208,0.189,UK,DKXL212 / N11a,.,PI 638552,United States,Delaware,Included
+486,DE811,Goodman-Buckler Diversity Set,3,9,0.294,0.107,0.07,0.169,0.005,0.146,0.096,0.113,UK,C103 / Mp3204 // B73Ht /3/  B68,.,PI 550558,United States,Delaware,Included
+124,DJ7,Unique to Wisconsin Diversity Set,3,1,0.993,0.001,0.001,0.002,0.001,0.001,0.001,0.001,SSS,B73 / BS16_Synthetic,.,PI 601191,United States,.,Included
+125,DK4676A,Unique to Wisconsin Diversity Set,2,9,0.227,0.004,0.16,0.281,0.306,0.003,0.013,0.006,UK,1067-1 / B-line_Composite,.,PI 601300,United States,.,Included
+126,DK78002A,Unique to Wisconsin Diversity Set,3,1,0.983,0.001,0.001,0.002,0.004,0.004,0.003,0.002,SSS,B73 / A634,.,PI 601301,United States,.,Included
+127,DK78010,Unique to Wisconsin Diversity Set,3,1,0.993,0.001,0.001,0.001,0.001,0.001,0.001,0.001,SSS,B73 / A634,.,PI 601211,United States,.,Included
+128,DK78371A,Unique to Wisconsin Diversity Set,3,7,0.002,0.009,0.003,0.003,0.002,0.002,0.619,0.359,UK,Iowa_Long_Ear x 3* 4726,.,PI 601438,United States,.,Included
+129,DKFAPW,Unique to Wisconsin Diversity Set,3,4,0.181,0.003,0.002,0.796,0.009,0.002,0.006,0.002,SSS,B14AHt / B37Ht,.,PI 600958,United States,.,Included
+130,DKFBHJ,Unique to Wisconsin Diversity Set,2,1,0.687,0.1,0.15,0.015,0.007,0.006,0.013,0.022,SSS,B84 / 2* FBAB,.,PI 601439,United States,.,Included
+131,DKHBA1,Unique to Wisconsin Diversity Set,3,9,0.19,0.005,0.014,0.005,0.246,0.169,0.097,0.274,UK,PH3195 / PH3199,.,PI 601172,United States,.,Included
+132,DKIB014,Unique to Wisconsin Diversity Set,3,7,0.015,0.006,0.027,0.003,0.026,0.033,0.882,0.007,UK, H99 / 2* PH3901,.,PI 601208,United States,.,Included
+133,DKIB02,Unique to Wisconsin Diversity Set,2,7,0.004,0.002,0.002,0.003,0.128,0.008,0.85,0.004,UK,7309B / 2* IBI,.,PI 601457,United States,.,Included
+134,DKMBNA,Unique to Wisconsin Diversity Set,2,8,0.004,0.003,0.003,0.004,0.025,0.088,0.025,0.847,NSS,Mo17Ht / MDA-28,.,PI 601209,United States,.,Included
+135,DKMBPM,Unique to Wisconsin Diversity Set,3,7,0.006,0.062,0.115,0.004,0.225,0.022,0.5,0.066,UK,Composite_400M,.,PI 601440,United States,.,Included
+136,DKMFD-13D,Unique to Wisconsin Diversity Set,3,9,0.007,0.04,0.013,0.003,0.099,0.007,0.412,0.418,NSS,.,.,PI 600956,.,.,Included
+137,DKPB80,Unique to Wisconsin Diversity Set,3,1,0.872,0.003,0.003,0.054,0.005,0.054,0.006,0.002,SSS,1067-1 / B73 // B73Ht,.,PI 601441,.,.,Included
+487,E2558W,Goodman-Buckler Diversity Set,3,9,0.006,0.009,0.203,0.145,0.172,0.411,0.05,0.004,UK,P3140XP3751/98-3-2-1-1-1,.,Ames 27110,United States,North Carolina,Included
+963,EAST 028 WHITE COB,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames14211,.,.,undesirable morpho-type
+138,EAST-028,Unique to Wisconsin Diversity Set,1,5,0.005,0.032,0.015,0.091,0.62,0.183,0.033,0.021,UK,.,.,Ames 2330,China,.,Included
+139,Eng-Li-Chih,Unique to Wisconsin Diversity Set,3,9,0.072,0.111,0.018,0.008,0.354,0.413,0.009,0.015,UK,.,.,PI 427109,China,Jilin,Included
+488,EP1,Goodman-Buckler Diversity Set,1,2,0.004,0.62,0.007,0.016,0.039,0.287,0.02,0.006,Semi Flint,Lizargarate,.,Ames 27111,United States,North Carolina,Included
+964,F10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257508,.,.,too early
+140,F115,Unique to Wisconsin Diversity Set,2,5,0.044,0.039,0.003,0.068,0.547,0.177,0.079,0.043,UK,.,.,PI 257513,France,Puy-de-Dome,Included
+965,F2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257506,.,.,too early
+966,F22,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257509,.,.,poor stand
+489,F2834T,Goodman-Buckler Diversity Set,3,6,0.155,0.219,0.003,0.05,0.013,0.526,0.028,0.007,Tropical,Teko_Yellow,.,Ames 27112,United States,North Carolina,Included
+967,F39,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257516,.,.,too early
+141,F42,Unique to Wisconsin Diversity Set,2,1,0.993,0.001,0.001,0.002,0.001,0.001,0.001,0.001,SSS,B73_mutation_selection,.,PI 601026,United States,Indiana,Included
+142,F431,Unique to Wisconsin Diversity Set,2,9,0.025,0.246,0.011,0.012,0.397,0.296,0.008,0.005,UK,Blanc_Chalosse_self_hybrid,.,PI 257515,France,Puy-de-Dome,Included
+490,F44,Goodman-Buckler Diversity Set,4,9,0.189,0.169,0.003,0.159,0.071,0.388,0.018,0.003,UK,Smith,.,NSL 22893,United States,Flordia,Included
+968,F49,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257511,.,.,too early
+969,F52,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257512,.,.,poor stand
+665,F6,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Hastings_White_Prolific / Florida_Flint,.,NSL 22894,United States,Flordia,Late
+491,F7,Goodman-Buckler Diversity Set,1,2,0.002,0.641,0.004,0.007,0.01,0.32,0.007,0.009,Flint,OP_Lacaune,.,PI 257507,France,Puy-de-Dome,Included
+970,FAPW,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI600958,.,.,repeated pedigree
+971,FBHJ,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601439,.,.,repeated pedigree
+143,FC46,Unique to Wisconsin Diversity Set,2,2,0.097,0.625,0.077,0.016,0.023,0.157,0.003,0.003,Flint,.,.,PI 257517,France,Puy-de-Dome,Included
+972,FENG 1B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391669,.,.,poor stand
+144,FR19,Unique to Wisconsin Diversity Set,2,9,0.367,0.016,0.077,0.004,0.446,0.009,0.071,0.01,SSS,A635 / W438,.,PI 600772,United States,Illinois,Included
+973,FV181,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI257514,.,.,too early
+145,G14_T133,Unique to Wisconsin Diversity Set,1,2,0.01,0.972,0.003,0.003,0.003,0.001,0.003,0.005,Flint,.,.,PI 340823,Romania,.,Included
+974,G15 T134,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340824,.,.,x
+975,G15 T134a,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340825,.,.,x
+146,G22_T122,Unique to Wisconsin Diversity Set,1,2,0.014,0.84,0.008,0.002,0.125,0.004,0.005,0.003,Flint,.,.,PI 340821,Romania,.,Included
+976,G3 T5,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340817,.,.,repeated pedigree
+147,G3_T5a,Unique to Wisconsin Diversity Set,1,2,0.013,0.938,0.003,0.003,0.006,0.002,0.033,0.002,Flint,.,.,PI 340818,Romania,.,Included
+148,G80,Unique to Wisconsin Diversity Set,3,9,0.136,0.004,0.046,0.378,0.015,0.003,0.101,0.317,UK,.,.,PI 601037,United States,Iowa,Included
+666,GA209,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,T61 / NC37,.,Ames 10248,United States,Georgia,Late
+149,GE129,Unique to Wisconsin Diversity Set,3,9,0.265,0.06,0.004,0.018,0.325,0.103,0.222,0.004,UK,Neal_Paymaster,.,Ames 10256,United States,Georgia,Included
+150,GE54,Unique to Wisconsin Diversity Set,3,9,0.119,0.022,0.038,0.03,0.261,0.207,0.187,0.138,UK,Good_Golden,.,Ames 10254,United States,Georgia,Included
+667,GT112,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,.,"Multiple_Cross (includes_Whatley, Cuban, Garrick, Creole, and_12_Percent_other)",Ames 27113,United States,Georgia,Late
+977,H10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26773,.,.,x
+978,H100,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22748,.,.,repeated pedigree
+979,H101,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26799,.,.,repeated pedigree
+980,H103,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550497,.,.,x
+492,H105W,Goodman-Buckler Diversity Set,2,1,0.762,0.005,0.002,0.008,0.013,0.058,0.15,0.003,SSS,33-16 / 3* A632,.,PI 587127,United States,Indiana,Included
+981,H106w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26800,.,.,x
+982,H107,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames19318,.,.,repeated pedigree
+983,H108,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26801,.,.,repeated pedigree
+984,H109,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26802,.,.,repeated pedigree
+151,H110,Unique to Wisconsin Diversity Set,3,9,0.347,0.004,0.007,0.13,0.009,0.389,0.056,0.06,UK,Mayorbella / Oh514,.,PI 550526,United States,Indiana,Included
+985,H111,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550527,.,.,x
+986,H112,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22750,.,.,x
+152,H113,Unique to Wisconsin Diversity Set,3,5,0.055,0.015,0.03,0.048,0.555,0.183,0.109,0.005,UK,H60 / H55,.,Ames 26803,United States,Indiana,Included
+153,H114,Unique to Wisconsin Diversity Set,2,4,0.1,0.002,0.023,0.689,0.003,0.004,0.112,0.066,UK,Illinois_Syn_60B,.,Ames 22751,United States,Indiana,Included
+987,H116,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL197104,.,.,repeated pedigree
+988,H117,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL197105,.,.,x
+989,H118w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL197106,.,.,poor agronomic performance
+990,H119,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22752,.,.,repeated pedigree
+154,H121,Unique to Wisconsin Diversity Set,3,9,0.005,0.031,0.349,0.003,0.374,0.042,0.191,0.005,UK,Syn_HCBSA,.,Ames 26804,United States,Indiana,Included
+155,H122w,Unique to Wisconsin Diversity Set,3,9,0.478,0.017,0.015,0.052,0.026,0.101,0.301,0.011,UK,74-R336 / FR805 // 2* B73,.,Ames 26805,United States,Indiana,Included
+991,H123,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22753,.,.,repeated pedigree
+156,H124w,Unique to Wisconsin Diversity Set,3,9,0.124,0.166,0.027,0.004,0.149,0.4,0.11,0.02,UK,H_white_Syn_D,.,Ames 26806,United States,Indiana,Included
+992,H125,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI583847,.,.,x
+993,H126W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI583846,.,.,no pedigree information
+157,H14,Unique to Wisconsin Diversity Set,3,9,0.013,0.202,0.016,0.048,0.063,0.013,0.498,0.148,UK,Lancaster_Synthetic,.,Ames 26774,United States,Indiana,Included
+994,H22w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26776,.,.,x
+995,H23w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26777,.,.,x
+996,H25W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames20137,.,.,x
+997,H26w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26778,.,.,x
+998,H27w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26779,.,.,x
+999,H28w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26780,.,.,x
+1000,H29w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26781,.,.,x
+1001,H30w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26782,.,.,x
+1002,H41,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26783,.,.,x
+158,H42,Unique to Wisconsin Diversity Set,3,9,0.009,0.02,0.258,0.042,0.459,0.007,0.196,0.008,UK,CI187-2 / 2* M14,.,Ames 26784,United States,Indiana,Included
+1003,H45,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26785,.,.,repeated pedigree
+1004,H46,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26786,.,.,repeated pedigree
+493,H49,Goodman-Buckler Diversity Set,3,3,0.003,0.002,0.952,0.027,0.002,0.002,0.011,0.001,NSS,L97 / 2* Wf9,.,Ames 15929,United States,Indiana,Included
+159,H5,Unique to Wisconsin Diversity Set,3,5,0.044,0.005,0.272,0.002,0.663,0.004,0.007,0.003,UK,Funk_Yellow_Dent,.,Ames 26772,United States,Indiana,Included
+1005,H50,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26788,.,.,x
+1006,H51,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26789,.,.,x
+160,H52,Unique to Wisconsin Diversity Set,3,9,0.015,0.113,0.127,0.049,0.38,0.029,0.247,0.04,NSS,L97 / 2* 38-11,.,Ames 26790,United States,Indiana,Included
+1007,H55,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26791,.,.,x
+1008,H59,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26792,.,.,x
+1009,H60,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25559,.,.,x
+161,H71,Unique to Wisconsin Diversity Set,3,5,0.006,0.021,0.089,0.002,0.844,0.009,0.027,0.001,NSS,NC24 / 2* W22,.,Ames 26793,United States,Indiana,Included
+1010,H73,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26794,.,.,x
+494,H84,Goodman-Buckler Diversity Set,3,4,0.005,0.001,0.03,0.945,0.006,0.005,0.004,0.002,SSS,B37 /  GE440,.,PI 587128,United States,Indiana,Included
+1011,H8431,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601610,.,.,x
+1012,H88,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26795,.,.,repeated pedigree
+495,H91,Goodman-Buckler Diversity Set,2,1,0.812,0.006,0.034,0.131,0.003,0.006,0.004,0.005,SSS,GE440 / 5* B14,.,Ames 27114,United States,North Carolina,Included
+1013,H93,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26796,.,.,repeated pedigree
+496,H95,Goodman-Buckler Diversity Set,3,7,0.003,0.023,0.014,0.057,0.1,0.087,0.712,0.005,NSS,Oh43 / CI90A,.,Ames 19319,United States,Indiana,Included
+162,H96,Unique to Wisconsin Diversity Set,3,9,0.158,0.002,0.014,0.011,0.416,0.188,0.207,0.004,UK,H55 / H56,.,Ames 26797,United States,Indiana,Included
+1014,H98,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26798,.,.,x
+163,H99,Unique to Wisconsin Diversity Set,2,9,0.029,0.225,0.173,0.008,0.037,0.013,0.487,0.029,UK,Illinois_Synthetic_60C,.,PI 587129,United States,Indiana,Included
+1015,HBA1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601172,.,.,repeated pedigree
+164,Hi26,Unique to Wisconsin Diversity Set,.,9,0.17,0.019,0.013,0.012,0.049,0.415,0.2,0.122,UK,CI21E / 5* MV_source,.,PI 593008,United States,Hawaii,Included
+498,Hi27,Goodman-Buckler Diversity Set,4,6,0.215,0.004,0.012,0.013,0.036,0.7,0.014,0.005,Tropical,CM104 / 7* MV_source,.,PI 593009,United States,Hawaii,Included
+165,Hi28,Unique to Wisconsin Diversity Set,4,6,0.043,0.018,0.076,0.034,0.106,0.709,0.007,0.007,UK,CM105 / 6* MV_source,.,PI 593010,United States,Hawaii,Included
+499,HP301,Goodman-Buckler Diversity Set,3,2,0.003,0.878,0.008,0.003,0.004,0.099,0.004,0.002,Popcorn,Supergold,.,PI 587131,United States,Indiana,Included
+1016,HP62-02,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542776,.,.,undesirable morpho-type
+1017,HP68-07,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542778,.,.,non-uniform
+166,HP72-11,Unique to Wisconsin Diversity Set,3,2,0.009,0.821,0.01,0.04,0.003,0.079,0.005,0.034,Popcorn,C103 / Unknown,.,PI 542777,United States,Indiana,Included
+167,HUA_94_INBRED,Unique to Wisconsin Diversity Set,1,9,0.046,0.337,0.005,0.014,0.45,0.038,0.105,0.006,UK,.,.,PI 405707,China,.,Included
+168,HUANYAO,Unique to Wisconsin Diversity Set,3,6,0.008,0.05,0.005,0.046,0.031,0.763,0.03,0.067,UK,.,.,Ames 2337,China,.,Included
+1018,HUO BAO MI (JI 0235),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405714,.,.,non-uniform
+169,HUOBAI,Unique to Wisconsin Diversity Set,3,9,0.033,0.071,0.196,0.037,0.128,0.493,0.008,0.034,UK,.,.,Ames 2339,China,.,Included
+500,Hy,Goodman-Buckler Diversity Set,3,5,0.306,0.013,0.036,0.014,0.561,0.052,0.012,0.007,NSS,Illinois_High_Yield,.,Ames 26808,United States,Iowa,Included
+1019,HY2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30864,.,.,x
+1020,I 205,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL65871,.,.,repeated pedigree
+668,I137TN,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Natal_Yellow_Horsetooth / Teko_Yellow,.,Ames 27116,United States,North Carolina,Late
+170,I159,Unique to Wisconsin Diversity Set,3,5,0.09,0.018,0.04,0.147,0.537,0.003,0.105,0.06,Iodent,Iodent,.,Ames 24589,United States,Iowa,Included
+1021,I198,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24590,.,.,x
+501,I205,Goodman-Buckler Diversity Set,3,9,0.009,0.01,0.013,0.076,0.359,0.037,0.494,0.004,UK,Iodent,.,NSL 65871,United States,Iowa,Included
+502,I29,Goodman-Buckler Diversity Set,2,2,0.16,0.524,0.004,0.003,0.005,0.299,0.002,0.003,Popcorn,Unknown_White_Pearl_Popcorn,.,Ames 27115,United States,North Carolina,Included
+1022,Ia 2003,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22028,.,.,undesirable morpho-type
+1023,Ia 2076,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22029,.,.,undesirable morpho-type
+1024,Ia-453,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22030,.,.,undesirable morpho-type
+1025,Ia 5145,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22031,.,.,non-uniform
+1026,IA 88,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340878,.,.,no pedigree information
+1027,Ia CG4189,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22025,.,.,undesirable morpho-type
+1028,IA DS 38-W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340874,.,.,no pedigree information
+1029,IA DS 43-W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340875,.,.,no pedigree information
+1030,IA DS 53,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340876,.,.,no pedigree information
+1031,IA DS 61,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL75976,.,.,no pedigree information
+1032,IA DS 62,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL75977,.,.,no pedigree information
+1033,IA DS 70,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340877,.,.,poor stand
+1034,Ia Ev191,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22026,.,.,poor stand
+1035,Ia Ev3004,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22027,.,.,non-uniform
+503,IA2132,Goodman-Buckler Diversity Set,2,2,0.019,0.651,0.002,0.048,0.059,0.009,0.011,0.2,Sweet Corn,TSR / 45 // 4329,.,PI 587134,United States,Iowa,Included
+1036,IA5125,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI587135,.,.,repeated pedigree
+504,Ia5125B,Goodman-Buckler Diversity Set,2,2,0.007,0.597,0.005,0.138,0.045,0.055,0.095,0.059,Sweet Corn,.,.,Ames 27117,United States,North Carolina,Included
+1037,IB014,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601208,.,.,repeated pedigree
+1038,IB02,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601457,.,.,repeated pedigree
+505,IDS28,Goodman-Buckler Diversity Set,2,9,0.079,0.412,0.305,0.008,0.077,0.034,0.083,0.003,UK,Yellow_Pearl,.,Ames 24575,United States,Iowa,Included
+506,IDS69,Goodman-Buckler Diversity Set,3,2,0.006,0.871,0.004,0.011,0.003,0.096,0.006,0.004,Popcorn,South_American_Popcorn,.,Ames 24576,United States,Iowa,Included
+507,IDS91,Goodman-Buckler Diversity Set,3,2,0.005,0.842,0.008,0.063,0.004,0.073,0.004,0.002,Popcorn,South_American_Popcorn,.,Ames 24577,United States,Iowa,Included
+1039,Il 101T,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27119,.,.,undesirable morpho-type
+508,Il101T,Goodman-Buckler Diversity Set,2,2,0.007,0.918,0.002,0.011,0.005,0.004,0.003,0.049,Sweet Corn,.,.,Ames 27119,United States,North Carolina,Included
+509,Il14H,Goodman-Buckler Diversity Set,2,2,0.008,0.845,0.003,0.008,0.006,0.038,0.003,0.088,Sweet Corn,White_Narrow_Grain_Evergreen_Sweetcorn,.,Ames 27118,United States,Illinois,Included
+510,Il677a,Goodman-Buckler Diversity Set,2,2,0.023,0.749,0.004,0.008,0.052,0.01,0.022,0.133,Sweet Corn,Bolivia 1035 / IL44b // IL422a,.,Ames 27120,United States,North Carolina,Included
+1040,Il731a,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27444,.,.,undesirable morpho-type
+1041,Il767b,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27445,.,.,undesirable morpho-type
+171,Il778d,Unique to Wisconsin Diversity Set,2,2,0.02,0.638,0.121,0.088,0.021,0.006,0.027,0.078,Sweet Corn,IL557a / IL677a,.,Ames 27446,United States,Illinois,Included
+1042,Il779a,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27447,.,.,poor stand
+1043,Ill 101Q,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22033,.,.,undesirable morpho-type
+1044,Ill.Hy,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26808,.,.,undesirable morpho-type
+172,INB_101LFY/LFY_(A632_X_M16_S5),Unique to Wisconsin Diversity Set,1,1,0.817,0.002,0.003,0.002,0.164,0.004,0.006,0.003,SSS,.,.,NSL 174429,United States,California,Included
+1045,INBR. PLS 14MS. STERILE,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI343952,.,.,undesirable morpho-type
+1046,Inbred 6-907,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI236997,.,.,non-uniform
+173,INBRED-100,Unique to Wisconsin Diversity Set,.,9,0.014,0.209,0.12,0.003,0.079,0.485,0.037,0.054,UK,.,.,PI 186197,Australia,.,Included
+174,INBRED-109,Unique to Wisconsin Diversity Set,4,6,0.016,0.013,0.01,0.106,0.087,0.705,0.021,0.042,UK,.,.,PI 186196,Australia,.,Included
+175,INBRED-141,Unique to Wisconsin Diversity Set,.,9,0.155,0.16,0.119,0.004,0.27,0.272,0.017,0.003,UK,.,.,PI 186199,Australia,.,Included
+176,INBRED-2-687,Unique to Wisconsin Diversity Set,3,6,0.08,0.009,0.008,0.006,0.042,0.756,0.094,0.003,UK,.,.,PI 186215,Argentina,.,Included
+177,INBRED-305,Unique to Wisconsin Diversity Set,3,9,0.17,0.154,0.002,0.119,0.043,0.433,0.076,0.002,UK,.,.,PI 186226,Uruguay,.,Included
+178,INBRED-309,Unique to Wisconsin Diversity Set,3,9,0.16,0.06,0.004,0.144,0.101,0.453,0.075,0.003,UK,.,.,PI 186227,Uruguay,.,Included
+179,INBRED-321,Unique to Wisconsin Diversity Set,3,6,0.12,0.158,0.004,0.04,0.019,0.647,0.009,0.003,UK,.,.,PI 186229,Uruguay,.,Included
+1047,IP 39,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22032,.,.,x
+180,J47,Unique to Wisconsin Diversity Set,3,9,0.019,0.013,0.072,0.006,0.385,0.012,0.256,0.237,UK,OP_Mercer_Co_Whitecap,.,NSL 22984,United States,New Jersey,Included
+1048,K 10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI369438,.,.,x
+511,K148,Goodman-Buckler Diversity Set,3,9,0.008,0.285,0.017,0.115,0.087,0.241,0.243,0.004,UK,Yellow_Selection_No_1,.,Ames 27122,United States,Kansas,Included
+181,K150,Unique to Wisconsin Diversity Set,3,9,0.094,0.284,0.005,0.012,0.234,0.225,0.012,0.134,UK,Yellow_Selection_No_1,.,NSL 22630,United States,Kansas,Included
+182,K155,Unique to Wisconsin Diversity Set,3,9,0.024,0.181,0.147,0.006,0.09,0.397,0.14,0.016,UK,Yellow_Selection_No_1,.,NSL 22634,United States,Kansas,Included
+183,K201,Unique to Wisconsin Diversity Set,4,9,0.089,0.185,0.147,0.052,0.159,0.231,0.132,0.005,UK,Midland,.,NSL 22632,United States,Kansas,Included
+512,K4,Goodman-Buckler Diversity Set,3,9,0.004,0.009,0.156,0.22,0.276,0.317,0.016,0.003,UK,Kansas_Sunflower,.,NSL 30038,United States,Missouri,Included
+184,K41,Unique to Wisconsin Diversity Set,3,9,0.103,0.025,0.053,0.037,0.422,0.218,0.128,0.014,UK,Pride_of_Saline,.,NSL 22635,United States,Kansas,Included
+185,K47,Unique to Wisconsin Diversity Set,3,2,0.009,0.516,0.005,0.083,0.032,0.308,0.037,0.01,Flint,.,.,NSL 22628,United States,Kansas,Included
+513,K55,Goodman-Buckler Diversity Set,3,9,0.244,0.149,0.004,0.014,0.273,0.296,0.005,0.016,UK,Pride_of_Saline,.,Ames 22754,United States,Kansas,Included
+514,K64,Goodman-Buckler Diversity Set,3,9,0.009,0.082,0.189,0.067,0.38,0.253,0.014,0.007,UK,Pride_of_Saline,.,Ames 27121,United States,Kansas,Included
+669,Ki11,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Suwan_1(S)C4-S8-18-7,.,Ames 27124,Thailand,.,Late
+670,Ki14,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Suwan_1_S_C4,.,Ames 27259,Thailand,.,Late
+671,Ki2021,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,.,Also Known as Kui2021,Ames 27129,Thailand,.,Late
+186,Ki21,Unique to Wisconsin Diversity Set,3,9,0.004,0.003,0.016,0.098,0.004,0.481,0.009,0.386,UK,Pacific_9-S8-45,.,Ames 27125,Thailand,.,Included
+515,Ki21,Goodman-Buckler Diversity Set,3,9,0.003,0.003,0.013,0.1,0.004,0.491,0.008,0.379,UK,Pacific_9-S8-45,.,Ames 27125,Thailand,.,Included
+672,Ki3,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Suwan 1,.,Ames 27123,Thailand,.,Late
+516,Ki43,Goodman-Buckler Diversity Set,3,6,0.003,0.006,0.109,0.006,0.034,0.721,0.102,0.019,Tropical,"Suwan_3(S)C3-S7-138, Kei 9101",.,Ames 27126,Thailand,.,Included
+673,Ki44,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,KS_6,Also Known as Kui44,Ames 27260,Thailand,.,Late
+187,KO679Y,Unique to Wisconsin Diversity Set,4,6,0.005,0.13,0.039,0.013,0.033,0.531,0.193,0.055,UK,.,.,PI 591017,South Africa,.,Included
+188,KUNG-70,Unique to Wisconsin Diversity Set,2,9,0.029,0.096,0.468,0.047,0.259,0.017,0.04,0.043,UK,.,.,PI 391662,China,Shaanxi,Included
+517,Ky21,Goodman-Buckler Diversity Set,1,9,0.039,0.279,0.007,0.109,0.163,0.353,0.015,0.036,UK,Boone_County_White,.,Ames 27130,United States,Kentucky,Included
+518,Ky226,Goodman-Buckler Diversity Set,3,9,0.092,0.16,0.182,0.004,0.01,0.427,0.011,0.114,UK,NCIaDDC / Coah_8,.,Ames 27131,United States,North Carolina,Included
+519,Ky228,Goodman-Buckler Diversity Set,4,9,0.033,0.16,0.157,0.029,0.207,0.226,0.054,0.134,UK,Pride_of_Saline,.,PI 587136,United States,Kentucky,Included
+1049,KYS,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL22633,.,.,undesirable morpho-type
+189,L-289,Unique to Wisconsin Diversity Set,3,9,0.011,0.251,0.007,0.01,0.186,0.268,0.242,0.026,UK,Lancaster_Surecrop,.,NSL 65872,United States,Iowa,Included
+520,L317,Goodman-Buckler Diversity Set,3,9,0.006,0.242,0.009,0.004,0.413,0.148,0.167,0.01,NSS,Lancaster_SureCrop,.,NSL 65873,United States,Iowa,Included
+521,L578,Goodman-Buckler Diversity Set,3,6,0.007,0.01,0.099,0.062,0.037,0.552,0.205,0.029,Tropical,Louisiana_Yellow_Dent,.,Ames 27132,United States,North Carolina,Included
+1050,LAI 1029,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2327,.,.,x
+1051,LH1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI644101,.,.,x
+190,LH119,Unique to Wisconsin Diversity Set,2,1,0.87,0.001,0.001,0.124,0.001,0.001,0.001,0.001,SSS,H93 / 2* B73,.,PI 600954,United States,Iowa,Included
+191,LH123Ht,Unique to Wisconsin Diversity Set,3,7,0.015,0.006,0.007,0.004,0.021,0.01,0.59,0.346,UK,PH3535,.,PI 601079,United States,Iowa,Included
+1052,LH132,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601004,.,.,repeated pedigree
+1053,LH143 CMS,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601003,.,.,repeated pedigree
+192,LH143_(maintainer),Unique to Wisconsin Diversity Set,2,1,0.978,0.001,0.002,0.002,0.003,0.004,0.003,0.008,SSS,.,.,Ames 27450,United States,Iowa,Included
+193,LH145,Unique to Wisconsin Diversity Set,2,1,0.689,0.005,0.003,0.006,0.287,0.003,0.006,0.001,SSS,A632Ht / CM105,.,PI 600959,United States,Iowa,Included
+194,LH146Ht,Unique to Wisconsin Diversity Set,2,1,0.743,0.005,0.001,0.003,0.242,0.001,0.003,0.002,SSS,B73 / 2* CM105,.,PI 601402,United States,.,Included
+195,LH149,Unique to Wisconsin Diversity Set,2,1,0.828,0.029,0.002,0.003,0.004,0.068,0.061,0.005,SSS,A662 / 3* B73,.,PI 601493,United States,.,Included
+1054,LH150,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601230,.,.,x
+196,LH156,Unique to Wisconsin Diversity Set,3,7,0.017,0.041,0.138,0.056,0.025,0.004,0.551,0.167,NSS,Va85 / Pa91,.,PI 601403,United States,.,Included
+197,LH38,Unique to Wisconsin Diversity Set,2,7,0.003,0.011,0.036,0.002,0.006,0.001,0.937,0.003,UK,A619 / L120,.,PI 600791,United States,Iowa,Included
+198,LH39,Unique to Wisconsin Diversity Set,2,7,0.002,0.018,0.002,0.006,0.004,0.001,0.964,0.003,UK,Oh43 / L120,.,PI 600944,United States,Iowa,Included
+199,LH51,Unique to Wisconsin Diversity Set,3,8,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.994,NSS,Unknown / 6* Mo17,.,PI 600955,United States,Iowa,Included
+1055,LH52,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601360,.,.,x
+200,LH54,Unique to Wisconsin Diversity Set,2,8,0.003,0.014,0.006,0.001,0.02,0.003,0.148,0.805,NSS,Holden_line_610 / 3* Mo17,.,PI 601316,United States,.,Included
+1056,LH57,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601317,.,.,x
+201,LH59,Unique to Wisconsin Diversity Set,3,8,0.006,0.002,0.004,0.003,0.003,0.002,0.282,0.699,NSS,Mo17 / H99 // LH53,.,PI 601466,United States,.,Included
+202,LH60,Unique to Wisconsin Diversity Set,3,8,0.006,0.003,0.219,0.121,0.046,0.044,0.046,0.512,NSS,LH55 / LH47,.,PI 601404,United States,.,Included
+203,LH61,Unique to Wisconsin Diversity Set,2,8,0.036,0.002,0.063,0.009,0.005,0.002,0.008,0.874,NSS,ASA / 3* Mo17,.,PI 601416,United States,.,Included
+1057,LH65,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601494,.,.,x
+204,LH74,Unique to Wisconsin Diversity Set,2,1,0.994,0.001,0.001,0.001,0.001,0.001,0.001,0.001,SSS,A632 / B73,.,PI 600957,United States,Iowa,Included
+205,LH82,Unique to Wisconsin Diversity Set,2,9,0.007,0.004,0.018,0.006,0.43,0.016,0.442,0.077,UK,Holden_Line_610 / LH7,.,PI 601170,United States,Iowa,Included
+206,LH85,Unique to Wisconsin Diversity Set,2,5,0.048,0.005,0.177,0.02,0.649,0.066,0.028,0.007,UK,PH3978,.,PI 601405,United States,.,Included
+207,LH93,Unique to Wisconsin Diversity Set,3,9,0.062,0.039,0.1,0.01,0.272,0.272,0.234,0.011,UK,Pioneer_Two_ear_Composite,.,PI 601171,United States,Iowa,Included
+1058,LP1 CMS HT,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI600755,.,.,repeated pedigree
+208,LP1_NR_HT,Unique to Wisconsin Diversity Set,2,1,0.985,0.002,0.004,0.003,0.003,0.001,0.001,0.001,SSS,A632Ht_male_fertile_non_restorer,.,PI 600729,United States,.,Included
+209,LP5,Unique to Wisconsin Diversity Set,2,1,0.844,0.037,0.008,0.002,0.028,0.064,0.012,0.004,SSS,Yugoslavion_GLAMOS / 2* B73Ht,.,PI 601378,France,.,Included
+1059,LUO 3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2325,.,.,poor stand
+1060,M 23,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22034,.,.,undesirable morpho-type
+1061,M 45,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22035,.,.,undesirable morpho-type
+522,M14,Goodman-Buckler Diversity Set,3,9,0.008,0.074,0.235,0.052,0.288,0.023,0.309,0.011,UK,BR10 / R8,.,NSL 30867,United States,Illinois,Included
+523,M162W,Goodman-Buckler Diversity Set,4,6,0.1,0.173,0.052,0.015,0.149,0.504,0.005,0.002,Tropical,K64r / 2_B1338T,.,Ames 27134,United States,North Carolina,Included
+524,M37W,Goodman-Buckler Diversity Set,3,6,0.003,0.034,0.016,0.007,0.033,0.818,0.082,0.007,UK,Jellicorse / 2* 21A,.,Ames 27133,South Africa,KwaZulu-Natal,Included
+1062,Ma32,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22036,.,.,undesirable morpho-type
+1063,MBNA,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601209,.,.,repeated pedigree
+1064,MBPM,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601440,.,.,repeated pedigree
+1065,MBST,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601566,.,.,repeated pedigree
+1066,MDF-13D,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI600956,.,.,repeated pedigree
+1067,Me 1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22037,.,.,undesirable morpho-type
+1068,Me 100,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22038,.,.,undesirable morpho-type
+1069,Me 121 Wa,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22039,.,.,undesirable morpho-type
+1070,Me 123,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22040,.,.,undesirable morpho-type
+1071,Me 135,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22041,.,.,undesirable morpho-type
+1072,Me 244 Wa,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22042,.,.,undesirable morpho-type
+1073,Me 244 Wb,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22043,.,.,undesirable morpho-type
+525,MEF156-55-2,Goodman-Buckler Diversity Set,2,2,0.013,0.595,0.013,0.028,0.173,0.147,0.02,0.011,UK,.,.,Ames 27135,.,.,Included
+1074,MINN #5,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26004,.,.,insufficient seed
+1075,ML606,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI583774,.,.,x
+1076,Mo10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558517,.,.,poor stand
+1077,Mo11,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558527,.,.,repeated pedigree
+1078,Mo12,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558528,.,.,repeated pedigree
+210,Mo13,Unique to Wisconsin Diversity Set,3,9,0.014,0.039,0.231,0.094,0.169,0.321,0.124,0.008,UK,Missouri_hybrid_1100_3 / 2* T8,.,PI 558529,United States,Missouri,Included
+1079,Mo14W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558530,.,.,repeated pedigree
+211,Mo15W,Unique to Wisconsin Diversity Set,3,9,0.33,0.033,0.034,0.032,0.093,0.152,0.302,0.025,UK,OP_Pipe Corn,.,PI 558518,United States,Missouri,Included
+212,Mo16W,Unique to Wisconsin Diversity Set,3,9,0.027,0.093,0.108,0.014,0.102,0.434,0.123,0.099,UK,OP_Pipe Corn,.,PI 558531,United States,Missouri,Included
+526,Mo17,Goodman-Buckler Diversity Set,3,8,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.994,NSS,CI187-2 / C103,.,PI 558532,United States,Missouri,Included
+1080,Mo17 +/su,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26764,.,.,repeated pedigree
+1081,Mo17T,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames19286,.,.,repeated pedigree
+674,Mo18W,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,NSS,Wf9 / 2* Mo22,.,PI 550441,United States,Missouri,Late
+527,Mo1W,Goodman-Buckler Diversity Set,3,3,0.003,0.005,0.973,0.002,0.002,0.009,0.006,0.001,NSS,Mo22 / 2* Wf9,.,PI 558520,United States,Missouri,Included
+1082,Mo20W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550442,.,.,x
+1083,Mo21R,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558533,.,.,x
+213,Mo22,Unique to Wisconsin Diversity Set,4,6,0.135,0.024,0.038,0.013,0.025,0.708,0.018,0.04,UK,Laguna,.,PI 558534,United States,Missouri,Included
+214,MO23W,Unique to Wisconsin Diversity Set,3,9,0.033,0.183,0.271,0.014,0.246,0.243,0.006,0.003,UK,K10 / Ky49,.,Ames 20116,United States,Missouri,Included
+528,Mo24W,Goodman-Buckler Diversity Set,3,6,0.003,0.147,0.079,0.023,0.124,0.581,0.011,0.032,UK,K10 / K49,.,PI 587144,United States,Missouri,Included
+1084,Mo25W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames20118,.,.,repeated pedigree
+215,Mo28W,Unique to Wisconsin Diversity Set,3,9,0.008,0.14,0.058,0.061,0.188,0.294,0.112,0.138,UK,MoSQA_S0_C4,.,Ames 28928,United States,Missouri,Included
+1085,Mo2RF,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558521,.,.,x
+216,Mo3,Unique to Wisconsin Diversity Set,3,5,0.021,0.029,0.005,0.085,0.554,0.004,0.298,0.004,UK,38-11 / R136,.,PI 558522,United States,Missouri,Included
+1086,Mo301ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67786,.,.,repeated pedigree
+1087,Mo303ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67788,.,.,repeated pedigree
+1088,Mo304ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67789,.,.,poor agronomic performance
+1089,Mo305ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67790,.,.,repeated pedigree
+1090,Mo307ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67792,.,.,repeated pedigree
+1091,Mo308ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67793,.,.,repeated pedigree
+217,Mo30W,Unique to Wisconsin Diversity Set,2,9,0.011,0.008,0.03,0.069,0.372,0.388,0.047,0.076,UK,MoSQA_S0_C4,.,Ames 28930,United States,Missouri,Included
+1092,Mo311ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67796,.,.,repeated pedigree
+1093,Mo312ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67797,.,.,repeated pedigree
+1094,Mo314ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL67799,.,.,repeated pedigree
+1095,Mo32W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28932,.,.,x
+1096,Mo36,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28934,.,.,late
+1097,Mo38,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28936,.,.,late
+218,Mo39,Unique to Wisconsin Diversity Set,3,9,0.01,0.005,0.023,0.262,0.457,0.163,0.039,0.042,UK,MoSQB_S0_C4,.,Ames 28937,United States,Missouri,Included
+1098,Mo40,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames20119,.,.,repeated pedigree
+1099,Mo401,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28360,.,.,repeated pedigree
+1100,Mo402,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28361,.,.,repeated pedigree
+1101,Mo403,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28362,.,.,repeated pedigree
+1102,Mo41,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26909,.,.,repeated pedigree
+1103,Mo42,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames20120,.,.,repeated pedigree
+1104,Mo43,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28938,.,.,repeated pedigree
+219,Mo44,Unique to Wisconsin Diversity Set,3,5,0.005,0.002,0.009,0.067,0.892,0.005,0.002,0.018,NSS,Mo22 / Pioneer_Mexican_Synthetic_17,.,Ames 28939,United States,Missouri,Included
+530,Mo45,Goodman-Buckler Diversity Set,3,9,0.02,0.204,0.007,0.141,0.304,0.188,0.016,0.12,UK,D2_Pioneer_3184,.,PI 583350,United States,Missouri,Included
+531,Mo46,Goodman-Buckler Diversity Set,3,9,0.262,0.003,0.119,0.07,0.091,0.157,0.083,0.215,UK,D2_Pioneer_3184,.,PI 583351,United States,Missouri,Included
+532,Mo47,Goodman-Buckler Diversity Set,2,9,0.005,0.075,0.032,0.03,0.257,0.28,0.272,0.05,UK,D2_Pioneer_3184,.,PI 583352,United States,Missouri,Included
+220,Mo5,Unique to Wisconsin Diversity Set,3,5,0.013,0.227,0.038,0.027,0.53,0.09,0.006,0.068,UK,N6 / 3* K55,.,PI 558523,United States,Missouri,Included
+1105,Mo501,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28940,.,.,repeated pedigree
+1106,Mo502W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28941,.,.,repeated pedigree
+1107,Mo506W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28942,.,.,repeated pedigree
+1108,Mo508W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28943,.,.,repeated pedigree
+1109,Mo510W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28944,.,.,repeated pedigree
+1110,Mo512AW,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28946,.,.,repeated pedigree
+1111,Mo6,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558524,.,.,repeated pedigree
+221,Mo7,Unique to Wisconsin Diversity Set,3,9,0.014,0.007,0.154,0.014,0.155,0.348,0.286,0.023,UK,Midland / T8,.,PI 558516,United States,Missouri,Included
+222,Mo8W,Unique to Wisconsin Diversity Set,3,9,0.004,0.169,0.019,0.007,0.367,0.409,0.007,0.018,UK,OP_Pipe_Corn,.,PI 558525,United States,Missouri,Included
+1112,Mo9W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI558526,.,.,repeated pedigree
+533,MoG,Goodman-Buckler Diversity Set,3,9,0.078,0.091,0.028,0.015,0.304,0.403,0.009,0.072,UK,Mastadon,Variety from Pennsylvania,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+534,Mp339,Goodman-Buckler Diversity Set,3,9,0.149,0.038,0.145,0.008,0.459,0.017,0.131,0.052,UK,T61 / Hill_Yellow_dent,.,PI 543916,United States,Mississippi,Included
+1113,MS100,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24726,.,.,x
+1114,Ms100,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22442,.,.,insufficient seed
+223,MS106,Unique to Wisconsin Diversity Set,3,9,0.003,0.07,0.283,0.05,0.433,0.041,0.112,0.007,UK,W10 / MS9,.,Ames 24727,United States,Michigan,Included
+224,MS116,Unique to Wisconsin Diversity Set,2,9,0.026,0.111,0.05,0.013,0.229,0.16,0.406,0.007,UK,Duncan_OP,.,Ames 24729,United States,Michigan,Included
+225,MS12,Unique to Wisconsin Diversity Set,2,9,0.008,0.198,0.009,0.006,0.413,0.235,0.074,0.056,UK,Golden_Glow / Maize_Amargo  // Duncan /3/ Golden Glow,.,Ames 24706,United States,Michigan,Included
+226,MS132,Unique to Wisconsin Diversity Set,3,9,0.281,0.031,0.166,0.101,0.054,0.006,0.356,0.006,SSS,Iowa _Stiff_Stalk_Synthetic,.,Ames 24730,United States,Michigan,Included
+535,MS1334,Goodman-Buckler Diversity Set,1,9,0.017,0.285,0.131,0.049,0.112,0.359,0.035,0.012,NSS,Maize Amargo / 2* Golden Glow,.,Ames 24752,United States,Michigan,Included
+1115,MS141,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24732,.,.,x
+227,MS142,Unique to Wisconsin Diversity Set,2,5,0.009,0.012,0.12,0.005,0.588,0.01,0.249,0.008,UK,Mich_250,.,Ames 24733,United States,Michigan,Included
+536,MS153,Goodman-Buckler Diversity Set,2,9,0.038,0.133,0.028,0.098,0.426,0.006,0.187,0.084,SSS,Iowa_Stiff_Stalk_Synthetic,.,Ames 24734,United States,Michigan,Included
+228,MS200,Unique to Wisconsin Diversity Set,2,9,0.005,0.298,0.287,0.004,0.182,0.1,0.075,0.048,UK,Illinois High Oil / 2* MS24,.,Ames 24737,United States,Michigan,Included
+1116,MS203,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24739,.,.,no pedigree information
+1117,MS204,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24740,.,.,no pedigree information
+229,MS211,Unique to Wisconsin Diversity Set,2,5,0.006,0.093,0.065,0.006,0.626,0.076,0.047,0.082,UK,Pickett_OP,.,Ames 24742,United States,Michigan,Included
+1118,MS215,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24744,.,.,no pedigree information
+1119,MS216,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24745,.,.,no pedigree information
+230,MS221,Unique to Wisconsin Diversity Set,3,4,0.214,0.003,0.141,0.56,0.007,0.002,0.066,0.006,UK,Broadbase_sel_for_European_corn_borer,.,Ames 24746,United States,Michigan,Included
+231,MS222,Unique to Wisconsin Diversity Set,3,4,0.228,0.003,0.141,0.554,0.005,0.002,0.058,0.007,UK,Broadbase_sel_for_European_corn_borer,.,Ames 24747,United States,Michigan,Included
+232,MS223,Unique to Wisconsin Diversity Set,3,5,0.015,0.144,0.183,0.007,0.598,0.031,0.015,0.007,UK,Broadbase_sel_for_European_corn_borer,.,Ames 24748,United States,Michigan,Included
+233,MS224,Unique to Wisconsin Diversity Set,3,9,0.003,0.186,0.004,0.131,0.017,0.208,0.413,0.038,UK,Broadbase_sel_for_European_corn_borer,.,Ames 24749,United States,Michigan,Included
+234,MS225,Unique to Wisconsin Diversity Set,2,9,0.013,0.055,0.037,0.078,0.155,0.163,0.426,0.072,UK,Broadbase_sel_for_European_corn_borer,.,Ames 24750,United States,Michigan,Included
+235,MS226,Unique to Wisconsin Diversity Set,3,9,0.472,0.131,0.02,0.005,0.202,0.013,0.135,0.023,UK,.,.,Ames 24751,United States,Michigan,Included
+1120,MS24,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24707,.,.,repeated pedigree
+236,MS24A,Unique to Wisconsin Diversity Set,2,9,0.011,0.351,0.254,0.008,0.042,0.192,0.128,0.014,NSS,Golden_Glow / Maize_Amargo  // Duncan /3/ Golden Glow,.,Ames 24708,United States,Michigan,Included
+237,MS67,Unique to Wisconsin Diversity Set,3,5,0.005,0.055,0.004,0.008,0.678,0.024,0.096,0.13,UK,L317 / 38-11 // MS1334,.,Ames 24710,United States,Michigan,Included
+537,MS71,Goodman-Buckler Diversity Set,2,5,0.006,0.007,0.008,0.065,0.801,0.003,0.087,0.024,NSS,A619 / R168,.,PI 587137,United States,Michigan,Included
+238,MS72,Unique to Wisconsin Diversity Set,2,9,0.003,0.172,0.131,0.002,0.469,0.024,0.195,0.003,UK,W10 / MS206,.,Ames 24713,United States,Michigan,Included
+1121,MS75,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24715,.,.,no pedigree information
+1122,MS76,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24716,.,.,no pedigree information
+1123,MS89,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24722,.,.,no pedigree information
+1124,MS91,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24723,.,.,no pedigree information
+1125,MS92,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24724,.,.,repeated pedigree
+1126,MS93,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames24725,.,.,repeated pedigree
+538,Mt42,Goodman-Buckler Diversity Set,1,9,0.187,0.224,0.073,0.009,0.226,0.159,0.071,0.052,NSS,Minnesota_No_13,.,Ames 20140,United States,Minnesota,Included
+1127,N190,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550565,.,.,repeated pedigree
+539,N192,Goodman-Buckler Diversity Set,2,1,0.891,0.015,0.003,0.002,0.071,0.002,0.008,0.008,SSS,CM105 / B73,.,PI 550566,United States,Nebraska,Included
+239,N193,Unique to Wisconsin Diversity Set,2,5,0.304,0.004,0.078,0.059,0.526,0.004,0.021,0.004,UK,NK_B_RF_2,.,PI 550567,United States,Nebraska,Included
+1128,N194,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550568,.,.,repeated pedigree
+240,N197,Unique to Wisconsin Diversity Set,2,8,0.007,0.002,0.021,0.054,0.149,0.003,0.002,0.763,NSS,Krug / 2* Mo17,.,Ames 22755,United States,Nebraska,Included
+241,N199,Unique to Wisconsin Diversity Set,3,5,0.01,0.007,0.005,0.244,0.64,0.01,0.006,0.077,UK,Mo44 / unknown,.,PI 568158,United States,Nebraska,Included
+242,N200,Unique to Wisconsin Diversity Set,3,5,0.044,0.009,0.008,0.278,0.576,0.009,0.005,0.071,UK,Mo44 / unknown,.,PI 568159,United States,Nebraska,Included
+243,N201,Unique to Wisconsin Diversity Set,3,1,0.988,0.001,0.004,0.002,0.001,0.001,0.002,0.001,SSS,N28 / B73,.,PI 568160,United States,Nebraska,Included
+244,N209,Unique to Wisconsin Diversity Set,3,1,0.507,0.003,0.049,0.007,0.377,0.006,0.047,0.003,UK,NSS1C6,.,PI 595366,United States,Nebraska,Included
+245,N211,Unique to Wisconsin Diversity Set,2,9,0.033,0.091,0.1,0.08,0.138,0.164,0.292,0.1,UK,Y41,.,PI 596354,United States,Nebraska,Included
+246,N215,Unique to Wisconsin Diversity Set,3,9,0.015,0.006,0.494,0.012,0.384,0.011,0.04,0.038,UK,NB_S_RF1,.,PI 595367,United States,Nebraska,Included
+247,N216,Unique to Wisconsin Diversity Set,3,9,0.096,0.004,0.268,0.068,0.489,0.007,0.032,0.036,UK,NB_S_RF1,.,PI 596355,United States,Nebraska,Included
+248,N217,Unique to Wisconsin Diversity Set,3,1,0.641,0.013,0.017,0.116,0.038,0.011,0.155,0.008,UK,077-3 / 077-3,.,PI 596356,United States,Nebraska,Included
+249,N218,Unique to Wisconsin Diversity Set,3,1,0.774,0.002,0.045,0.075,0.016,0.006,0.081,0.002,UK,172-2 / 172-2,.,PI 596357,United States,Nebraska,Included
+250,N28,Unique to Wisconsin Diversity Set,3,9,0.385,0.005,0.004,0.296,0.198,0.002,0.009,0.102,SSS,Stiff_Stalk_Synthetic_1,.,Ames 19321,United States,Nebraska,Included
+540,N28Ht,Goodman-Buckler Diversity Set,3,9,0.392,0.004,0.013,0.29,0.21,0.003,0.003,0.085,SSS,Stiff_Stalk_Synthetic_1,.,Ames 27138,United States,North Carolina,Included
+251,N501,Unique to Wisconsin Diversity Set,3,1,0.532,0.003,0.096,0.03,0.322,0.006,0.006,0.005,Semi Flint,Nebraska_S_synthetic,.,PI 594050,United States,Nebraska,Included
+1129,N502,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594051,.,.,repeated pedigree
+1130,N503,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594052,.,.,repeated pedigree
+1131,N504,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594053,.,.,repeated pedigree
+1132,N505,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594054,.,.,repeated pedigree
+1133,N506,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594055,.,.,repeated pedigree
+1134,N507,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594056,.,.,repeated pedigree
+1135,N508,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594057,.,.,repeated pedigree
+1136,N509,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594058,.,.,repeated pedigree
+1137,N510,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594059,.,.,repeated pedigree
+1138,N511,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594060,.,.,repeated pedigree
+1139,N512,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594061,.,.,repeated pedigree
+1140,N513,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594062,.,.,repeated pedigree
+1141,N514,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594063,.,.,repeated pedigree
+1142,N515,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594064,.,.,repeated pedigree
+1143,N516,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594065,.,.,repeated pedigree
+1144,N517,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594066,.,.,repeated pedigree
+1145,N518,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594067,.,.,repeated pedigree
+1146,N519,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594068,.,.,repeated pedigree
+1147,N520,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594069,.,.,repeated pedigree
+1148,N521,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594070,.,.,repeated pedigree
+1149,N522,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI604605,.,.,repeated pedigree
+252,N523,Unique to Wisconsin Diversity Set,2,9,0.258,0.05,0.014,0.195,0.297,0.006,0.169,0.013,UK,Nebraska_S_synthetic,.,PI 594071,United States,Nebraska,Included
+1150,N524,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594072,.,.,repeated pedigree
+1151,N525,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594073,.,.,repeated pedigree
+1152,N526,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594074,.,.,repeated pedigree
+253,N527,Unique to Wisconsin Diversity Set,3,9,0.116,0.06,0.01,0.224,0.33,0.024,0.214,0.022,UK,Nebraska_B_synthetic / Nebraska_S_Synthetic,.,PI 604606,United States,Nebraska,Included
+1153,N528,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594075,.,.,repeated pedigree
+1154,N529,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594076,.,.,repeated pedigree
+1155,N530,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594077,.,.,repeated pedigree
+1156,N532,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594078,.,.,repeated pedigree
+1157,N533,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594079,.,.,repeated pedigree
+254,N534,Unique to Wisconsin Diversity Set,3,9,0.007,0.01,0.405,0.004,0.434,0.038,0.066,0.036,UK,Nebraska_B_Synthetic,.,PI 594080,United States,Nebraska,Included
+1158,N535,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594081,.,.,repeated pedigree
+1159,N536,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594082,.,.,repeated pedigree
+1160,N537,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594083,.,.,repeated pedigree
+255,N538,Unique to Wisconsin Diversity Set,3,9,0.284,0.015,0.016,0.101,0.329,0.006,0.247,0.003,UK,Nebraska_S_synthetic,.,PI 594084,United States,Nebraska,Included
+1161,N539,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594085,.,.,repeated pedigree
+256,N540,Unique to Wisconsin Diversity Set,3,9,0.292,0.01,0.015,0.102,0.317,0.008,0.253,0.003,UK,Nebraska_S_synthetic,.,PI 594086,United States,Nebraska,Included
+1162,N541,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594087,.,.,repeated pedigree
+257,N542,Unique to Wisconsin Diversity Set,2,9,0.298,0.012,0.015,0.173,0.345,0.006,0.146,0.005,UK,Nebraska_S_synthetic,.,PI 594088,United States,Nebraska,Included
+1163,N543,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594089,.,.,repeated pedigree
+1164,N544,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI594090,.,.,repeated pedigree
+258,N545,Unique to Wisconsin Diversity Set,3,9,0.304,0.02,0.012,0.1,0.27,0.013,0.279,0.003,UK,Nebraska_S_synthetic,.,PI 594091,United States,Nebraska,Included
+1165,N546,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI597578,.,.,repeated pedigree
+541,N6,Goodman-Buckler Diversity Set,2,5,0.035,0.136,0.113,0.026,0.546,0.066,0.053,0.025,NSS,Hays_Golden,.,Ames 27137,United States,North Carolina,Included
+542,N7A,Goodman-Buckler Diversity Set,2,1,0.5,0.004,0.01,0.188,0.213,0.051,0.031,0.003,SSS,Oh07 / Stiff_Stalk_Synthetic,.,PI 607512,United States,Nebraska,Included
+1166,N7A Goodman-Buckler,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames28366,.,.,repeated pedigree
+1167,N801w,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI592741,.,.,x
+259,NC13,Unique to Wisconsin Diversity Set,3,9,0.018,0.019,0.02,0.067,0.46,0.272,0.067,0.077,UK,Indian_Chief,.,Ames 12726,United States,North Carolina,Included
+543,NC222,Goodman-Buckler Diversity Set,3,9,0.087,0.015,0.006,0.032,0.238,0.491,0.007,0.125,UK,Jarvis_Golden_Prolific,.,Ames 12729,United States,North Carolina,Included
+544,NC230,Goodman-Buckler Diversity Set,4,9,0.304,0.098,0.004,0.013,0.257,0.292,0.008,0.022,UK,K55 / Yellow_line_or_hybrid,.,Ames 12731,United States,North Carolina,Included
+545,NC232,Goodman-Buckler Diversity Set,4,9,0.007,0.202,0.221,0.148,0.019,0.325,0.022,0.055,UK, Low_ear_outcross / 3* T204,.,Ames 12732,United States,North Carolina,Included
+546,NC236,Goodman-Buckler Diversity Set,4,9,0.005,0.006,0.008,0.045,0.415,0.158,0.162,0.201,UK, Huffman Variety / Illinois Low Ear // NC7,.,Ames 12734,United States,North Carolina,Included
+547,NC238,Goodman-Buckler Diversity Set,4,9,0.009,0.111,0.125,0.005,0.111,0.391,0.178,0.07,UK,NC601 / 2* GT112,.,Ames 12735,United States,North Carolina,Included
+548,NC250,Goodman-Buckler Diversity Set,3,4,0.004,0.004,0.008,0.865,0.002,0.018,0.002,0.098,SSS,Nigeria_Composite_ARb  / 2* B37,.,PI 550555,United States,North Carolina,Included
+549,NC258,Goodman-Buckler Diversity Set,3,8,0.009,0.007,0.006,0.003,0.023,0.243,0.007,0.703,NSS,NC248 / NC246 // C103 /3/ 2* TZ,.,PI 531084,United States,North Carolina,Included
+550,NC260,Goodman-Buckler Diversity Set,3,5,0.009,0.004,0.038,0.016,0.676,0.022,0.002,0.231,NSS,Mo17 / 4* Mo44,.,Ames 27140,United States,North Carolina,Included
+551,NC262,Goodman-Buckler Diversity Set,3,8,0.006,0.008,0.003,0.002,0.014,0.223,0.105,0.639,NSS,McNair_14 / McNair_18,.,PI 531085,United States,North Carolina,Included
+552,NC264,Goodman-Buckler Diversity Set,3,6,0.003,0.034,0.009,0.139,0.181,0.568,0.013,0.055,NSS,SC76 / 2* Gaspe // 3* SC76,.,PI 520774,United States,North Carolina,Included
+553,NC290A,Goodman-Buckler Diversity Set,3,8,0.005,0.005,0.006,0.005,0.013,0.172,0.203,0.591,NSS,McNair_14 / McNair_18,.,Ames 27141,United States,North Carolina,Included
+554,NC294,Goodman-Buckler Diversity Set,3,4,0.404,0.001,0.004,0.58,0.002,0.003,0.003,0.003,SSS,NC250 / 2* B73,.,Ames 27143,United States,North Carolina,Included
+675,NC296,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Pioneer_X105A / H-5,.,Ames 27144,United States,North Carolina,Late
+555,NC296A,Goodman-Buckler Diversity Set,2,6,0.002,0.001,0.003,0.003,0.002,0.984,0.002,0.002,Tropical,Pioneer_X105A / H5,.,Ames 27145,United States,North Carolina,Included
+556,NC298,Goodman-Buckler Diversity Set,4,6,0.002,0.001,0.003,0.003,0.001,0.986,0.002,0.002,Tropical,Agroceres_155 / Pioneer_X105A / H5,.,Ames 27261,United States,North Carolina,Included
+676,NC300,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,Agroceres_105A / Pioneer_X306B / H-5,.,Ames 27146,United States,North Carolina,Late
+557,NC302,Goodman-Buckler Diversity Set,4,6,0.004,0.003,0.003,0.003,0.004,0.978,0.004,0.002,Tropical,Pioneer_X105A / H5 // H101,.,Ames 27147,United States,North Carolina,Included
+558,NC304,Goodman-Buckler Diversity Set,4,6,0.006,0.004,0.002,0.147,0.004,0.826,0.006,0.005,Tropical,Pioneer_X105A / H5 // H101,.,Ames 27148,United States,North Carolina,Included
+559,NC306,Goodman-Buckler Diversity Set,3,1,0.551,0.004,0.004,0.431,0.002,0.004,0.002,0.003,SSS,NC250 / 2* B73,.,Ames 27149,United States,North Carolina,Included
+560,NC310,Goodman-Buckler Diversity Set,3,1,0.883,0.002,0.002,0.109,0.001,0.001,0.001,0.001,SSS,NC250 / B73,.,Ames 27151,United States,North Carolina,Included
+561,NC314,Goodman-Buckler Diversity Set,2,4,0.293,0.002,0.006,0.572,0.003,0.009,0.003,0.112,SSS,B73 / NC250,.,Ames 27153,United States,North Carolina,Included
+562,NC318,Goodman-Buckler Diversity Set,4,6,0.002,0.022,0.005,0.163,0.09,0.615,0.013,0.088,NSS,B52 / 4* SC76,.,Ames 27155,United States,North Carolina,Included
+563,NC320,Goodman-Buckler Diversity Set,3,6,0.004,0.014,0.016,0.177,0.154,0.599,0.018,0.018,NSS,SC76 4* / B52,.,Ames 27156,United States,North Carolina,Included
+564,NC324,Goodman-Buckler Diversity Set,3,4,0.272,0.007,0.003,0.625,0.003,0.004,0.002,0.084,SSS,B73 / NC250,.,Ames 27158,United States,North Carolina,Included
+565,NC326,Goodman-Buckler Diversity Set,3,1,0.966,0.001,0.007,0.018,0.001,0.001,0.003,0.002,SSS,NC250 / 4* B73,.,Ames 27159,United States,North Carolina,Included
+566,NC328,Goodman-Buckler Diversity Set,3,1,0.856,0.001,0.001,0.138,0.001,0.001,0.001,0.001,SSS,NC250 / 4* B73,.,Ames 27160,United States,North Carolina,Included
+677,NC33,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Weekleys_Improved,.,Ames 27139,United States,North Carolina,Late
+567,NC336,Goodman-Buckler Diversity Set,3,6,0.004,0.001,0.002,0.003,0.002,0.983,0.002,0.002,Tropical,Pioneer_X105A / H5,.,Ames 27164,United States,North Carolina,Included
+568,NC338,Goodman-Buckler Diversity Set,3,6,0.002,0.003,0.001,0.002,0.004,0.984,0.002,0.002,Tropical,Pioneer_X105A / H5 // Pioneer_304B / Agroceres_504,.,Ames 27165,United States,North Carolina,Included
+569,NC340,Goodman-Buckler Diversity Set,3,6,0.004,0.002,0.007,0.003,0.004,0.974,0.004,0.002,Tropical,Pioneer_306A / H5 // Pioneer_X105A,.,Ames 27166,United States,North Carolina,Included
+570,NC342,Goodman-Buckler Diversity Set,3,8,0.01,0.003,0.002,0.003,0.03,0.344,0.021,0.587,NSS,McNair_14 / McNair_18,.,Ames 27167,United States,North Carolina,Included
+571,NC344,Goodman-Buckler Diversity Set,3,8,0.008,0.007,0.023,0.002,0.016,0.277,0.005,0.662,NSS,NC248 / NC246 // C103 /3/ 2* TZ,.,Ames 27168,United States,North Carolina,Included
+678,NC346,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,Tropical,H-5 / Pioneer_X105A,.,Ames 27169,United States,North Carolina,Late
+572,NC348,Goodman-Buckler Diversity Set,3,6,0.002,0.001,0.003,0.003,0.001,0.987,0.002,0.001,Tropical,Pioneer_X105A / H5 //  Agroceres_155,.,Ames 27170,United States,North Carolina,Included
+573,NC350,Goodman-Buckler Diversity Set,4,6,0.007,0.006,0.026,0.005,0.04,0.894,0.02,0.002,Tropical,Pioneer_X105A / H5 // H101,.,Ames 27171,United States,North Carolina,Included
+574,NC352,Goodman-Buckler Diversity Set,3,6,0.004,0.002,0.003,0.003,0.002,0.983,0.002,0.002,Tropical,Pioneer_X105A / H5,.,Ames 27172,United States,North Carolina,Included
+575,NC354,Goodman-Buckler Diversity Set,3,6,0.002,0.001,0.003,0.003,0.002,0.985,0.002,0.002,Tropical,Pioneer_X105A / H5 //  PH_X304A / H101,.,Ames 27173,United States,North Carolina,Included
+576,NC356,Goodman-Buckler Diversity Set,3,6,0.008,0.003,0.067,0.002,0.01,0.872,0.008,0.03,Tropical,Trophy,.,Ames 27174,United States,North Carolina,Included
+577,NC358,Goodman-Buckler Diversity Set,3,6,0.004,0.001,0.015,0.002,0.003,0.961,0.002,0.011,Tropical,Trophy,.,Ames 27175,United States,North Carolina,Included
+578,NC360,Goodman-Buckler Diversity Set,4,6,0.004,0.007,0.011,0.004,0.005,0.619,0.007,0.344,Tropical/NSS,Pioneer_X105A / Agroceres_155 // NC262,.,Ames 27176,United States,North Carolina,Included
+579,NC362,Goodman-Buckler Diversity Set,3,6,0.003,0.006,0.013,0.007,0.012,0.537,0.07,0.351,Tropical/NSS,Pioneer_X105A / Agroceres_155 // NC262,.,Ames 27177,United States,North Carolina,Included
+580,NC364,Goodman-Buckler Diversity Set,3,6,0.003,0.004,0.013,0.005,0.008,0.5,0.124,0.343,Tropical/NSS,Pioneer_X105A / Agroceres_155 // NC262,.,Ames 27178,United States,North Carolina,Included
+581,NC366,Goodman-Buckler Diversity Set,3,6,0.015,0.018,0.131,0.006,0.1,0.611,0.012,0.107,Tropical,Florida_Synthetic_8A_T,.,Ames 27179,United States,North Carolina,Included
+582,NC368,Goodman-Buckler Diversity Set,3,4,0.435,0.002,0.003,0.51,0.002,0.042,0.002,0.003,SSS,B73 / NC250 // NC250 / 2* B73,.,Ames 27180,United States,North Carolina,Included
+260,NC378,Unique to Wisconsin Diversity Set,3,9,0.361,0.194,0.004,0.004,0.005,0.396,0.008,0.028,UK,Pioneer X105A / PH_306B //B73 /3/ Fla_Syn / 4* Va35,.,NCSU maize breeding program (maize_resources@ncsu.edu),.,.,Included
+261,NC412,Unique to Wisconsin Diversity Set,3,6,0.004,0.004,0.003,0.004,0.004,0.54,0.208,0.233,Tropical/NSS,Pioneer_X105A / H5 // Agroceres_155 /3/ NC262A,.,NCSU maize breeding program (maize_resources@ncsu.edu),.,.,Included
+262,NC472,Unique to Wisconsin Diversity Set,3,9,0.377,0.02,0.117,0.113,0.012,0.343,0.005,0.014,Tropical/NSS,NC268 / NC300,.,NCSU maize breeding program (maize_resources@ncsu.edu),.,.,Included
+1191,ND-B8,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32727,.,.,too early
+263,ND1,Unique to Wisconsin Diversity Set,1,2,0.008,0.703,0.028,0.007,0.155,0.036,0.027,0.038,Semi Flint,Falconer,.,NSL 32723,United States,North Dakota,Included
+264,ND101,Unique to Wisconsin Diversity Set,1,9,0.008,0.395,0.019,0.012,0.22,0.082,0.221,0.043,UK,BS5,.,PI 550553,United States,North Dakota,Included
+265,ND167,Unique to Wisconsin Diversity Set,1,9,0.007,0.029,0.15,0.104,0.497,0.176,0.028,0.008,NSS,Haneys_Minnesota_No_13,.,NSL 32726,United States,North Dakota,Included
+1168,ND203,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32732,.,.,too early
+266,ND230,Unique to Wisconsin Diversity Set,1,9,0.029,0.115,0.143,0.014,0.407,0.226,0.054,0.013,NSS,Haneys_Minnesota_No_13,.,NSL 32728,United States,North Dakota,Included
+1169,ND240,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI607519,.,.,too early
+267,ND245,Unique to Wisconsin Diversity Set,1,9,0.057,0.309,0.007,0.018,0.064,0.273,0.237,0.035,UK,CK98 / ND12Rf,.,PI 550489,United States,North Dakota,Included
+583,ND246,Goodman-Buckler Diversity Set,1,9,0.041,0.34,0.01,0.02,0.035,0.322,0.199,0.032,UK,W755 / W771,.,PI 550490,United States,North Dakota,Included
+268,ND247,Unique to Wisconsin Diversity Set,2,5,0.062,0.112,0.014,0.04,0.622,0.053,0.066,0.031,UK,NDSAB,.,PI 550503,United States,North Dakota,Included
+1170,ND248,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550504,.,.,too early
+269,ND249,Unique to Wisconsin Diversity Set,2,9,0.013,0.151,0.233,0.004,0.39,0.201,0.006,0.002,UK,Rumanian_Syn_D,.,PI 550530,United States,North Dakota,Included
+1171,ND250,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550531,.,.,too early
+270,ND251,Unique to Wisconsin Diversity Set,2,9,0.043,0.227,0.216,0.005,0.46,0.022,0.024,0.003,UK,Rumanian_Syn_D,.,PI 550532,United States,North Dakota,Included
+1172,ND252,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550540,.,.,too early
+1173,ND253,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550541,.,.,too early
+1174,ND254,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550542,.,.,too early
+1175,ND255,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32722,.,.,too early
+1176,ND256,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550554,.,.,too early
+271,ND259,Unique to Wisconsin Diversity Set,2,9,0.005,0.258,0.325,0.003,0.179,0.014,0.196,0.02,UK,Minnesota_AS-D,.,PI 550571,United States,North Dakota,Included
+272,ND260,Unique to Wisconsin Diversity Set,1,9,0.006,0.088,0.158,0.082,0.481,0.076,0.008,0.103,UK,NDSB,.,PI 550573,United States,North Dakota,Included
+1177,ND261,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI510674,.,.,too early
+273,ND262,Unique to Wisconsin Diversity Set,1,9,0.065,0.193,0.015,0.007,0.497,0.167,0.032,0.024,UK,NDSF,.,PI 522250,United States,North Dakota,Included
+1178,ND264,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI522252,.,.,too early
+274,ND265,Unique to Wisconsin Diversity Set,2,9,0.218,0.139,0.165,0.007,0.35,0.035,0.08,0.006,UK,NDSA_FS_C2,.,PI 546494,United States,North Dakota,Included
+1179,ND266,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI548794,.,.,too early
+275,ND283,Unique to Wisconsin Diversity Set,2,2,0.059,0.521,0.048,0.006,0.024,0.283,0.053,0.006,NSS,Haneys_Minnesota_No_13,.,NSL 32738,United States,North Dakota,Included
+1180,ND300,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI607527,.,.,too early
+1181,ND301,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550491,.,.,too early
+1182,ND304W,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI550552,.,.,too early
+1183,ND376,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32733,.,.,too early
+1184,ND385,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32731,.,.,too early
+1185,ND405,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32730,.,.,too early
+1186,ND407,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32735,.,.,too early
+1187,ND408,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32734,.,.,too early
+1188,ND468,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32729,.,.,too early
+1189,ND474,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32739,.,.,too early
+1190,ND480,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL32736,.,.,too early
+276,NEI_9004,Unique to Wisconsin Diversity Set,.,6,0.012,0.008,0.059,0.036,0.017,0.727,0.03,0.11,UK,.,.,Ames 26253,Thailand,Nakhon Sawan,Included
+1192,NIU 11,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391670,.,.,too early
+1193,NJ 112,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22044,.,.,too early
+1194,NJ 116 Wa,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22045,.,.,too early
+1195,NJ 116 Wb,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22046,.,.,too early
+1196,NJ 159,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22047,.,.,too early
+277,NK740,Unique to Wisconsin Diversity Set,3,8,0.007,0.007,0.002,0.007,0.002,0.026,0.001,0.947,NSS,Mexican_Deep_Kernel / 4* Mo17,.,PI 601489,United States,Minnesota,Included
+278,NK778,Unique to Wisconsin Diversity Set,2,5,0.011,0.024,0.003,0.423,0.502,0.029,0.004,0.005,UK,W117 / B73Ht,.,PI 601375,United States,Minnesota,Included
+279,NK794,Unique to Wisconsin Diversity Set,3,1,0.975,0.004,0.002,0.002,0.002,0.002,0.005,0.007,SSS,NK235 / B73,.,PI 601377,United States,Minnesota,Included
+280,NK807,Unique to Wisconsin Diversity Set,2,4,0.015,0.011,0.003,0.683,0.262,0.008,0.016,0.003,SSS,W117 / B37,.,PI 601430,United States,Minnesota,Included
+281,NKH8431,Unique to Wisconsin Diversity Set,2,1,0.585,0.047,0.019,0.011,0.132,0.088,0.115,0.003,SSS,NK377 / NKB386 // NK347,.,PI 601610,United States,Minnesota,Included
+282,NKS8324,Unique to Wisconsin Diversity Set,2,1,0.774,0.003,0.008,0.022,0.004,0.002,0.182,0.006,SSS,CH593-9 / 2* B73,.,PI 601611,United States,Minnesota,Included
+283,NKS8326,Unique to Wisconsin Diversity Set,2,8,0.005,0.003,0.002,0.003,0.059,0.074,0.004,0.849,NSS,(W117 / 2* Mo17,.,PI 601612,United States,Minnesota,Included
+284,NO._1266_INBRED,Unique to Wisconsin Diversity Set,4,9,0.033,0.008,0.118,0.12,0.338,0.347,0.032,0.005,UK,.,.,PI 303941,Spain,.,Included
+285,NO._380,Unique to Wisconsin Diversity Set,2,2,0.034,0.868,0.005,0.01,0.023,0.007,0.047,0.007,Flint,.,.,PI 303924,Former Soviet Union,.,Included
+286,NORTH-7,Unique to Wisconsin Diversity Set,1,9,0.005,0.008,0.051,0.023,0.068,0.364,0.431,0.051,UK,.,.,Ames 2328,China,.,Included
+1197,NP86,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542715,.,.,undesirable morpho-type
+287,NP87,Unique to Wisconsin Diversity Set,3,2,0.14,0.632,0.025,0.094,0.006,0.096,0.005,0.002,Popcorn,Nebraska_Supergold,.,PI 542716,United States,Nebraska,Included
+1198,NQ508,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI559918,.,.,x
+1199,NS501,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601583,.,.,x
+1200,NS701,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601417,.,.,x
+288,NY-159,Unique to Wisconsin Diversity Set,3,9,0.128,0.135,0.115,0.024,0.193,0.317,0.022,0.066,UK,.,.,PI 200182,Israel,.,Included
+289,NY-166,Unique to Wisconsin Diversity Set,3,9,0.077,0.18,0.01,0.01,0.115,0.377,0.194,0.037,UK,.,.,PI 200184,Israel,.,Included
+1201,NY5526,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI610493,.,.,x
+290,NY6371,Unique to Wisconsin Diversity Set,3,9,0.108,0.041,0.017,0.218,0.156,0.398,0.013,0.05,UK,Multiple_Borer_Resistant_Population,.,PI 610494,United States,New York,Included
+291,Ny821,Unique to Wisconsin Diversity Set,1,9,0.012,0.166,0.005,0.006,0.12,0.052,0.411,0.229,UK,Pa_Disease_Resistance_Synthetic,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+1202,NYLB31,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI561695,.,.,x
+292,NYRD4058,Unique to Wisconsin Diversity Set,2,8,0.007,0.049,0.004,0.008,0.144,0.01,0.14,0.638,NSS,W153R / 2* Mo17,.,PI 561694,United States,New York,Included
+1203,OC1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553054,.,.,undesirable morpho-type
+1204,OC10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553063,.,.,undesirable morpho-type
+1205,OC11,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553064,.,.,poor stand
+1206,OC12,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596499,.,.,x
+1207,OC13,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596500,.,.,x
+1208,OC14,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596501,.,.,x
+1209,OC15,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596502,.,.,x
+1210,OC16,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596503,.,.,undesirable morpho-type
+1211,OC17,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596504,.,.,poor agronomic performance
+1212,OC18,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI596505,.,.,undesirable morpho-type
+293,OC19,Unique to Wisconsin Diversity Set,3,9,0.004,0.47,0.175,0.071,0.02,0.249,0.003,0.008,UK,Petersons_ABPl3 / Rainbow ,.,PI 596506,United States,Iowa,Included
+1213,OC2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553055,.,.,x
+1214,OC3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553056,.,.,undesirable morpho-type
+1215,OC4,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553057,.,.,x
+1216,OC5,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553058,.,.,x
+1217,OC6,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553059,.,.,x
+1218,OC7,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553060,.,.,x
+1219,OC8,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553061,.,.,undesirable morpho-type
+1220,OC9,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI553062,.,.,undesirable morpho-type
+294,OH33,Unique to Wisconsin Diversity Set,3,9,0.04,0.143,0.005,0.078,0.325,0.163,0.213,0.032,UK,Clarage,.,NSL 28965,United States,Ohio,Included
+584,Oh40B,Goodman-Buckler Diversity Set,2,7,0.004,0.139,0.009,0.028,0.003,0.072,0.648,0.096,NSS,Lancaster_SureCrop,.,NSL 28966,United States,Ohio,Included
+1221,OH422,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL68211,.,.,x
+295,Oh43,Unique to Wisconsin Diversity Set,2,7,0.002,0.003,0.002,0.002,0.002,0.001,0.987,0.002,NSS,W8 / Oh40B,.,Ames 19288,United States,Ohio,Included
+1222,Oh43 (su),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26765,.,.,repeated pedigree
+1223,Oh43 sh2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26766,.,.,repeated pedigree
+586,Oh43E,Goodman-Buckler Diversity Set,2,7,0.003,0.009,0.035,0.002,0.005,0.001,0.941,0.003,NSS,ERF/Oh43,.,Ames 27183,United States,North Carolina,Included
+1224,Oh51A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23922,.,.,x
+1225,Oh56A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL28967,.,.,x
+1226,Oh599,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI572413,.,.,x
+587,Oh603,Goodman-Buckler Diversity Set,3,9,0.004,0.101,0.103,0.018,0.357,0.224,0.051,0.143,UK,Ohio_Synthetic_Corn_Belt_Tropical_Flint_ C0,.,PI 573098,United States,Ohio,Included
+1227,Oh7,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI587146,.,.,repeated pedigree
+588,Oh7B,Goodman-Buckler Diversity Set,3,5,0.112,0.097,0.013,0.137,0.51,0.019,0.108,0.005,UK,38-11 / 2* Oh07,.,Ames 19323,United States,Ohio,Included
+1228,OH7B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL22629,.,.,repeated pedigree
+1229,OH84,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL28968,.,.,x
+589,Os420,Goodman-Buckler Diversity Set,2,5,0.005,0.097,0.003,0.117,0.597,0.004,0.057,0.12,NSS,Osterland_Yellow_Dent,.,NSL 65874,United States,Iowa,Included
+296,Os426,Unique to Wisconsin Diversity Set,2,9,0.231,0.06,0.128,0.005,0.402,0.163,0.008,0.003,NSS,Osterland_Yellow_Dent,.,Ames 22756,United States,Iowa,Included
+590,P39,Goodman-Buckler Diversity Set,2,2,0.007,0.912,0.005,0.003,0.006,0.002,0.002,0.063,Sweet Corn,Purdue_Bantam,.,NSL 8585,United States,Indiana,Included
+1230,P39A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL8583,.,.,repeated pedigree
+1231,P39M96,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22048,.,.,repeated pedigree
+1232,P51,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22049,.,.,undesirable morpho-type
+1233,P51wx,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22050,.,.,undesirable morpho-type
+1234,P737M20,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI644102,.,.,x
+1235,Pa356,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI531081,.,.,x
+297,Pa392,Unique to Wisconsin Diversity Set,2,9,0.168,0.045,0.184,0.076,0.416,0.082,0.025,0.004,UK,Virus_Resistance_Early_Synthetic,.,PI 517968,United States,Pennsylvania,Included
+1236,Pa405,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22757,.,.,x
+298,Pa468,Unique to Wisconsin Diversity Set,2,9,0.009,0.021,0.273,0.114,0.271,0.233,0.076,0.003,UK,Yellow_release_from_Indian_Corn,.,PI 517971,United States,Pennsylvania,Included
+1237,Pa759,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI560074,.,.,x
+1238,Pa760,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI560075,.,.,x
+591,Pa762,Goodman-Buckler Diversity Set,3,7,0.002,0.007,0.008,0.006,0.003,0.004,0.964,0.006,NSS,Oh43 / Pa70L,.,Ames 27184,United States,North Carolina,Included
+299,Pa778,Unique to Wisconsin Diversity Set,2,8,0.162,0.006,0.131,0.034,0.004,0.025,0.037,0.6,NSS,C103 / Hookers_Ht_B_source // C103OC  /3/ C103_HtHt_Hookers_A_source,.,PI 560081,United States,Pennsylvania,Included
+1239,Pa860,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI560082,.,.,x
+592,Pa875,Goodman-Buckler Diversity Set,3,9,0.014,0.016,0.394,0.003,0.178,0.344,0.002,0.049,UK,Wf9,.,Ames 27185,United States,North Carolina,Included
+1240,Pa877,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI517972,.,.,x
+1241,Pa879,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI517973,.,.,x
+593,Pa880,Goodman-Buckler Diversity Set,3,9,0.019,0.157,0.397,0.015,0.091,0.161,0.086,0.075,UK,PAWF9,.,PI 517974,United States,Pennsylvania,Included
+300,Pa891,Unique to Wisconsin Diversity Set,3,9,0.003,0.014,0.41,0.085,0.025,0.002,0.296,0.165,NSS,T226 / 2* Pa91,.,PI 531083,United States,Pennsylvania,Included
+594,Pa91,Goodman-Buckler Diversity Set,3,7,0.003,0.221,0.035,0.128,0.018,0.013,0.526,0.056,NSS,Wf9 / Oh40B // L317 / 2* 38-11,.,PI 587147,United States,Pennsylvania,Included
+1242,Pa91HT1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25372,.,.,repeated pedigree
+1243,Pa91HT2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25373,.,.,repeated pedigree
+1244,Pa91HT3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames25374,.,.,repeated pedigree
+1245,PB80,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601441,.,.,repeated pedigree
+301,PH207,Unique to Wisconsin Diversity Set,2,7,0.008,0.001,0.003,0.004,0.002,0.003,0.978,0.001,Iodent,PHG3BD2 / PHG3RZ1,.,PI 601005,United States,Iowa,Included
+302,PHB09,Unique to Wisconsin Diversity Set,3,4,0.038,0.006,0.005,0.529,0.028,0.002,0.309,0.084,SSS,PH555 / PH031,.,PI 601007,.,.,Included
+303,PHB47,Unique to Wisconsin Diversity Set,.,4,0.001,0.001,0.001,0.992,0.001,0.001,0.001,0.001,SSS,SD105 / 3* B37,.,PI 601009,United States,Iowa,Included
+304,PHG29,Unique to Wisconsin Diversity Set,3,7,0.013,0.002,0.003,0.006,0.004,0.003,0.967,0.002,Iodent,PH806 / 2* PH207,.,PI 601270,United States,Iowa,Included
+305,PHG35,Unique to Wisconsin Diversity Set,3,9,0.009,0.004,0.106,0.011,0.349,0.005,0.381,0.136,Iodent/Midland,PHG3BD2 / PH595,.,PI 601008,United States,Iowa,Included
+306,PHG39,Unique to Wisconsin Diversity Set,3,9,0.169,0.002,0.007,0.459,0.182,0.003,0.175,0.003,Amargo,PHA33GB4 / PHPHA34CB4,.,PI 600981,United States,Iowa,Included
+307,PHG47,Unique to Wisconsin Diversity Set,2,7,0.008,0.105,0.034,0.009,0.134,0.005,0.698,0.006,NSS,PH041 / MKSDTE_C10,.,PI 601318,United States,Iowa,Included
+308,PHG50,Unique to Wisconsin Diversity Set,3,7,0.165,0.002,0.015,0.005,0.022,0.007,0.779,0.004,Iodent,PH848 / PH207,.,PI 601006,United States,Iowa,Included
+309,PHG71,Unique to Wisconsin Diversity Set,2,1,0.527,0.001,0.003,0.002,0.002,0.002,0.462,0.001,SSS,A632Ht / PH207,.,PI 601150,United States,Iowa,Included
+310,PHG72,Unique to Wisconsin Diversity Set,1,7,0.231,0.002,0.009,0.002,0.009,0.003,0.742,0.001,Iodent,PH891 / PH207,.,PI 601319,United States,Iowa,Included
+311,PHG80,Unique to Wisconsin Diversity Set,2,9,0.138,0.004,0.034,0.376,0.016,0.003,0.115,0.314,SSS,PH495 / PH331,.,PI 601037,United States,Iowa,Included
+1246,PHG83,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601229,.,.,x
+1247,PHG84,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601320,.,.,poor stand
+312,PHG86,Unique to Wisconsin Diversity Set,3,1,0.93,0.005,0.008,0.03,0.013,0.01,0.003,0.002,SSS,B64 / B73,.,PI 601442,United States,Iowa,Included
+1248,PHH93,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601567,.,.,x
+313,PHJ40,Unique to Wisconsin Diversity Set,2,8,0.006,0.007,0.011,0.309,0.014,0.007,0.147,0.5,SSS,PHB09 / PHB36,.,PI 601321,United States,Iowa,Included
+1249,PHK05,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601467,.,.,too early
+1250,PHK29,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601468,.,.,x
+314,PHK42,Unique to Wisconsin Diversity Set,2,7,0.009,0.001,0.002,0.004,0.004,0.003,0.976,0.002,Iodent,PH806 / 2* PH207,.,PI 601495,United States,Iowa,Included
+315,PHK76,Unique to Wisconsin Diversity Set,2,9,0.058,0.015,0.126,0.002,0.036,0.127,0.22,0.416,UK,PHAD18 / PHB02,.,PI 601496,United States,Iowa,Included
+1251,PHM49,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601568,.,.,x
+316,PHN11,Unique to Wisconsin Diversity Set,.,7,0.005,0.002,0.002,0.005,0.008,0.004,0.973,0.001,Iodent,PH806 / 2* PH207,.,PI 601497,United States,Iowa,Included
+1252,PHN47,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601569,.,.,x
+1253,PHR25,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601469,.,.,x
+1254,PHR32,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601571,.,.,x
+317,PHR36,Unique to Wisconsin Diversity Set,3,9,0.043,0.005,0.023,0.011,0.419,0.302,0.164,0.034,UK,PH203 / 2* PH549 // PH848,.,PI 601361,United States,Iowa,Included
+1255,PHR47,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601572,.,.,x
+1256,PHT10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601573,.,.,x
+318,PHT55,Unique to Wisconsin Diversity Set,3,4,0.195,0.002,0.01,0.545,0.089,0.007,0.148,0.005,Amargo,PHA33GB4 / PHA34CB4,.,PI 601498,United States,Iowa,Included
+1257,PHT60,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601574,.,.,x
+319,PHT77,Unique to Wisconsin Diversity Set,2,9,0.006,0.003,0.023,0.164,0.009,0.012,0.358,0.425,NSS,PH814 / PH995,.,PI 601499,United States,Iowa,Included
+320,PHV63,Unique to Wisconsin Diversity Set,3,9,0.158,0.033,0.01,0.246,0.187,0.016,0.024,0.325,UK,PH555 / Zapalote,.,PI 601500,United States,Iowa,Included
+1258,PHV78,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601470,.,.,x
+321,PHW17,Unique to Wisconsin Diversity Set,2,1,0.632,0.012,0.01,0.007,0.023,0.305,0.009,0.003,SSS,PHID11 / B73 // PH051 / 2* B73,.,PI 601362,United States,Iowa,Included
+1259,PHW52,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601575,.,.,x
+322,PHW65,Unique to Wisconsin Diversity Set,3,9,0.005,0.003,0.104,0.01,0.236,0.024,0.449,0.168,UK,PH861 / PH595,.,PI 601501,United States,Iowa,Included
+1260,PHW79,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601576,.,.,x
+323,PHZ51,Unique to Wisconsin Diversity Set,3,9,0.017,0.004,0.137,0.009,0.331,0.201,0.086,0.215,NSS,PH814 / PH848,.,PI 601322,United States,Iowa,Included
+1261,PLS 61/10870 subline-1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI343953,.,.,non-uniform
+1262,Prior A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI433485,.,.,non-uniform
+1263,Prior B,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI433486,.,.,non-uniform
+1264,Prior C,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI433487,.,.,non-uniform
+324,Q381,Unique to Wisconsin Diversity Set,2,7,0.007,0.002,0.003,0.004,0.002,0.003,0.978,0.002,UK,PH3396,.,PI 601190,United States,.,Included
+1265,R-15 DENT STERILE,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340844,.,.,undesirable morpho-type
+1266,R-17 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340853,.,.,undesirable morpho-type
+1267,R-18 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340856,.,.,poor agronomic performance
+1270,R-22 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340859,.,.,undesirable morpho-type
+1275,R-28,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340862,.,.,x
+1276,R-28-2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340863,.,.,x
+1278,R-4524,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340837,.,.,x
+1279,R-53-1 INBR.FR.YELPEARL,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340866,.,.,undesirable morpho-type
+1289,R-PAH-1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340872,.,.,undesirable morpho-type
+1290,R-PAH-1 IN.FR.TOM-THUMB,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340869,.,.,undesirable morpho-type
+1291,R-PAH-2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340870,.,.,undesirable morpho-type
+1292,R-RAH-2 IN.FR.TOM-THUMB,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340873,.,.,poor stand
+325,R101,Unique to Wisconsin Diversity Set,3,5,0.003,0.002,0.003,0.002,0.646,0.084,0.259,0.002,SSS,Stiff_Stalk_Synthetic,.,NSL 30878,United States,Illinois,Included
+595,R109B,Goodman-Buckler Diversity Set,2,5,0.03,0.178,0.051,0.048,0.503,0.12,0.063,0.006,UK,Snelling_Corn_Borer_Synthetic,.,NSL 242484,United States,Illinois,Included
+326,R113,Unique to Wisconsin Diversity Set,2,5,0.006,0.058,0.025,0.019,0.598,0.006,0.223,0.065,SSS,Stiff_Stalk_Synthetic,.,NSL 30883,United States,Illinois,Included
+327,R134,Unique to Wisconsin Diversity Set,3,9,0.043,0.007,0.058,0.15,0.318,0.253,0.16,0.01,UK,K201 / 4* Mo2RF,.,NSL 30884,United States,Illinois,Included
+596,R168,Goodman-Buckler Diversity Set,3,5,0.003,0.068,0.013,0.004,0.777,0.02,0.098,0.018,UK,Illinois_Synthetic,.,Ames 19326,United States,Illinois,Included
+597,R177,Goodman-Buckler Diversity Set,3,9,0.012,0.06,0.01,0.061,0.494,0.02,0.338,0.005,UK,Snelling_Corn_Borer_Synthetic,.,NSL 30894,United States,Illinois,Included
+328,R181B,Unique to Wisconsin Diversity Set,2,5,0.232,0.036,0.003,0.006,0.522,0.006,0.191,0.004,UK,Snelling_Corn_Borer_Synthetic,.,NSL 30896,United States,Illinois,Included
+329,R197,Unique to Wisconsin Diversity Set,3,5,0.105,0.06,0.017,0.042,0.536,0.009,0.226,0.006,UK,R80 / K201,.,NSL 30902,United States,Illinois,Included
+1268,R2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30865,.,.,undesirable morpho-type
+1269,R216,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL29303,.,.,non-uniform
+1271,R220,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL29316,.,.,x
+1272,R222,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL29319,.,.,x
+330,R225,Unique to Wisconsin Diversity Set,3,9,0.089,0.067,0.18,0.064,0.307,0.006,0.213,0.074,SSS,BS10,.,PI 531509,United States,Illinois,Included
+331,R226,Unique to Wisconsin Diversity Set,3,9,0.433,0.004,0.034,0.027,0.202,0.052,0.232,0.016,SSS,BS10,.,PI 531510,United States,Illinois,Included
+332,R227,Unique to Wisconsin Diversity Set,3,9,0.324,0.01,0.007,0.07,0.411,0.004,0.062,0.112,SSS,RSSSC,.,PI 531511,United States,Illinois,Included
+1273,R228,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI592733,.,.,no pedigree information
+598,R229,Goodman-Buckler Diversity Set,3,1,0.868,0.003,0.005,0.006,0.004,0.109,0.002,0.004,SSS,479 / 2* B73,.,PI 592734,United States,Illinois,Included
+1274,R230,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI592735,.,.,no pedigree information
+333,R30,Unique to Wisconsin Diversity Set,3,9,0.01,0.028,0.03,0.041,0.41,0.337,0.019,0.125,UK,Champion_White_Pearl,.,NSL 30868,United States,Illinois,Included
+1277,R35,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames21096,.,.,poor agronomic performance
+599,R4,Goodman-Buckler Diversity Set,3,5,0.098,0.002,0.126,0.056,0.674,0.019,0.021,0.004,NSS,Funk_Yellow_Dent,.,Ames 27187,United States,North Carolina,Included
+334,R53,Unique to Wisconsin Diversity Set,2,9,0.002,0.195,0.01,0.011,0.299,0.261,0.201,0.021,NSS,A375 / M13 / CI187-2,.,NSL 30869,United States,Illinois,Included
+335,R71,Unique to Wisconsin Diversity Set,3,5,0.004,0.004,0.005,0.072,0.597,0.003,0.306,0.009,UK,Snelling_Corn_Borer_Synthetic,.,NSL 30872,United States,Illinois,Included
+1280,R76,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30875,.,.,x
+336,R78,Unique to Wisconsin Diversity Set,3,9,0.016,0.024,0.076,0.006,0.484,0.118,0.271,0.004,UK,Hy / 2* Illinois_High_Oil,.,NSL 30876,United States,Illinois,Included
+1281,R802A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL117226,.,.,x
+1282,R839,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL42806,.,.,x
+1283,R84,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30877,.,.,x
+1284,R853,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL42808,.,.,undesirable morpho-type
+1285,R906,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30907,.,.,undesirable morpho-type
+1286,RB-15 DENT STERILE,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340846,.,.,undesirable morpho-type
+1287,RB-17 INBR.FR.SUPERGOLD,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340854,.,.,undesirable morpho-type
+1288,RB-53 INBR.FR.YELPEARL,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340868,.,.,undesirable morpho-type
+1293,S 117,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535926,.,.,too early
+1294,S 125,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535927,.,.,too early
+1295,S 14,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI369439,.,.,too early
+1296,S 17,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535913,.,.,too early
+1297,S 2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535900,.,.,too early
+1298,S 22,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535914,.,.,too early
+1299,S 3,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535901,.,.,too early
+1300,S 37,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535916,.,.,too early
+1301,S 48,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI369442,.,.,too early
+1302,S 51,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535917,.,.,too early
+1303,S 59A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535919,.,.,too early
+1304,S 61,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI369443,.,.,too early
+1305,S 63,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535920,.,.,too early
+1306,S 65,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535921,.,.,too early
+1307,S 8,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535912,.,.,too early
+1308,S 90,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535923,.,.,too early
+1309,S 97,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535924,.,.,too early
+1310,S 99,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI535925,.,.,poor agronomic performance
+337,S_56,Unique to Wisconsin Diversity Set,1,2,0.002,0.79,0.003,0.005,0.005,0.178,0.012,0.005,UK,.,.,PI 535906,Poland,.,Included
+1311,S330,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2341,.,.,.
+1312,S4,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23508,.,.,too early
+1313,S43,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23510,.,.,too early
+1314,S8,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames23509,.,.,too early
+1315,S8324,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601611,.,.,x
+1316,S8326,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601612,.,.,x
+600,SA24,Goodman-Buckler Diversity Set,3,2,0.004,0.78,0.004,0.177,0.003,0.025,0.003,0.004,Popcorn,South_American_Popcorn,.,Ames 27188,United States,North Carolina,Included
+679,SC213R,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,NC33 / 2* GT112,.,NSL 53083,United States,South Carolina,Late
+680,SC357,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Whately_Yellow / Tennessee Red Cob,.,NSL 53094,United States,South Carolina,Late
+601,SC55,Goodman-Buckler Diversity Set,4,9,0.012,0.122,0.015,0.008,0.141,0.484,0.188,0.03,UK,L501 / L503 // L548 / L569,.,Ames 27189,.,.,Included
+1317,SD10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30835,.,.,x
+338,SD101,Unique to Wisconsin Diversity Set,2,4,0.083,0.002,0.09,0.511,0.068,0.115,0.044,0.087,UK,Fulton_Yellow_Dent_Dawes_strain,.,PI 533658,United States,South Dakota,Included
+339,SD102,Unique to Wisconsin Diversity Set,3,7,0.004,0.002,0.004,0.341,0.004,0.002,0.641,0.002,UK,Wimples_Yellow_Dent_Sundstroms_strain,.,PI 533659,United States,South Dakota,Included
+1318,SD106,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538242,.,.,repeated pedigree
+340,SD107,Unique to Wisconsin Diversity Set,3,1,0.646,0.166,0.003,0.002,0.105,0.05,0.012,0.016,UK,Sundstrom_No_90,.,PI 538243,United States,South Dakota,Included
+1319,SD108,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538244,.,.,repeated pedigree
+341,SD15,Unique to Wisconsin Diversity Set,2,9,0.007,0.133,0.38,0.006,0.285,0.017,0.011,0.162,UK,Oh56A / Silver King // Oh56A,.,NSL 34374,United States,South Dakota,Included
+602,SD40,Goodman-Buckler Diversity Set,2,9,0.428,0.008,0.022,0.136,0.038,0.316,0.045,0.007,UK,Pioneer_Hybrid_3709,.,PI 606768,United States,South Dakota,Included
+1320,SD41,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI606769,.,.,repeated pedigree
+342,SD42,Unique to Wisconsin Diversity Set,3,5,0.17,0.046,0.038,0.011,0.541,0.107,0.082,0.007,UK,SDp232 / H96,.,PI 508277,United States,South Dakota,Included
+1321,SD43,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI518660,.,.,repeated pedigree
+603,SD44,Goodman-Buckler Diversity Set,3,9,0.086,0.005,0.439,0.005,0.009,0.11,0.343,0.003,UK,SDp309 / SD30,.,PI 524969,United States,South Dakota,Included
+1322,SD46,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI524970,.,.,x
+1323,SD53,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538229,.,.,repeated pedigree
+1324,SD57,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538235,.,.,repeated pedigree
+1325,SD59,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538231,.,.,repeated pedigree
+1326,SD63,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538237,.,.,repeated pedigree
+1327,SD65,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538238,.,.,repeated pedigree
+1328,SD69,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI538239,.,.,repeated pedigree
+343,Seagull-Seventeen,Unique to Wisconsin Diversity Set,3,8,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.994,NSS,unknown / 6* Mo17,.,PI 600751,United States,.,Included
+344,SG_30A,Unique to Wisconsin Diversity Set,2,2,0.282,0.671,0.025,0.003,0.004,0.009,0.004,0.002,Popcorn,,.,NSL 75980,United States,Kansas,Included
+604,Sg1533,Goodman-Buckler Diversity Set,3,2,0.03,0.662,0.161,0.006,0.011,0.125,0.003,0.003,Popcorn,Supergold,.,PI 587132,.,.,Included
+605,Sg18,Goodman-Buckler Diversity Set,3,2,0.137,0.633,0.006,0.006,0.003,0.212,0.002,0.001,Semi Flint,Supergold,.,NSL 75979,United States,Iowa,Included
+1329,STRAIN 11D-586-68(A),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358521,.,.,poor stand
+1330,STRAIN 18B-5-69,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358524,.,.,poor stand
+1331,STRAIN 304A-408-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358527,.,.,undesirable morpho-type
+1332,STRAIN 451B-4-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358529,.,.,x
+1333,STRAIN 465A-421-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358530,.,.,poor stand
+1334,STRAIN 675A-415-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358531,.,.,x
+1335,STRAIN T20-2-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358534,.,.,x
+1336,STRAIN T24-395-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358536,.,.,x
+1337,STRAIN T32-397-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358537,.,.,x
+1338,STRAIN T33-399-68(B),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358538,.,.,x
+1339,STRAIN T35-388-68(A),Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358539,.,.,undesirable morpho-type
+1340,STRAIN T36(101T)-394-68,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI358533,.,.,x
+1341,SW 322,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2329,.,.,x
+1342,T IEH 84,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391663,.,.,x
+1343,T140,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI340826,.,.,x
+345,T141,Unique to Wisconsin Diversity Set,2,9,0.022,0.295,0.019,0.067,0.064,0.313,0.205,0.016,UK,Huffman / RB751,.,PI 340827,Romania,.,Included
+346,T146,Unique to Wisconsin Diversity Set,2,9,0.008,0.167,0.02,0.089,0.166,0.455,0.089,0.005,UK,,.,PI 340829,Romania,.,Included
+606,T232,Goodman-Buckler Diversity Set,3,9,0.034,0.115,0.007,0.168,0.121,0.291,0.249,0.015,UK,Jellicorse / Teko Yellow,.,PI 550522,United States,Tennessee,Included
+607,T234,Goodman-Buckler Diversity Set,3,9,0.003,0.003,0.077,0.073,0.454,0.254,0.132,0.004,UK,RB.L / Ill_A // 5* T111,.,Ames 27190,United States,North Carolina,Included
+347,T242,Unique to Wisconsin Diversity Set,2,9,0.216,0.299,0.004,0.07,0.194,0.004,0.16,0.052,UK,L20 / 2* T220,.,PI 340830,Romania,.,Included
+608,T8,Goodman-Buckler Diversity Set,3,9,0.028,0.006,0.047,0.067,0.048,0.495,0.276,0.034,UK,Jarvis_Golden_Prolific,.,PI 550518,United States,Tennessee,Included
+1344,T8144 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267167,.,.,x
+1345,T8146 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267168,.,.,x
+1346,T8302 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267169,.,.,too early
+1347,T8354 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267170,.,.,x
+1348,T8445 INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI267171,.,.,poor stand
+348,T9,Unique to Wisconsin Diversity Set,1,2,0.011,0.956,0.005,0.003,0.006,0.001,0.008,0.009,Flint,,.,PI 340819,Romania,.,Included
+1349,TANG CHAO INBRED,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI405709,.,.,x
+1350,TAUN 23,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2326,.,.,x
+349,Tr,Unique to Wisconsin Diversity Set,3,9,0.103,0.041,0.211,0.006,0.405,0.205,0.023,0.006,NSS,Reid_Yellow_Dent,.,Ames 26022,United States,Indiana,Included
+1351,TUO 229,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391676,.,.,poor stand
+681,Tx303,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Yellow_Surecropper,.,Ames 19327,United States,Texas,Late
+682,Tx601,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Yellow_Tuxpan,.,Ames 22763,United States,Texas,Late
+683,Tzi10,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Tlaltizapan_7844 / TZSR,.,PI 506248,Nigeria,.,Late
+684,Tzi11,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,NSS,Mo17 / RppSR,.,PI 540745,Nigeria,.,Late
+685,Tzi16,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,RppTZSR-Y / N28,.,PI 540747,Nigeria,.,Late
+686,Tzi18,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Sete_Lagoas_7728 / TZSR,.,PI 506253,Nigeria,.,Late
+687,Tzi25,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,SSS,RppSR / 3* B73,.,PI 506255,Nigeria,.,Late
+688,Tzi8,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,TZB / TZSR,.,PI 506246,Nigeria,.,Late
+689,Tzi9,Goodman-Buckler Diversity Set - Late,.,.,.,.,.,.,.,.,.,.,UK,Sids_7734 / TZSR,.,PI 506247,Nigeria,.,Late
+350,TZU-CHIAO-HSI-WU_105,Unique to Wisconsin Diversity Set,2,6,0.078,0.012,0.137,0.028,0.218,0.513,0.008,0.006,UK,,.,PI 391678,China,Shaanxi,Included
+351,U_123,Unique to Wisconsin Diversity Set,1,2,0.088,0.55,0.003,0.003,0.347,0.003,0.004,0.003,Flint,,.,PI 369446,Poland,.,Included
+609,U267Y,Goodman-Buckler Diversity Set,3,9,0.008,0.045,0.4,0.027,0.015,0.499,0.004,0.002,UK,WF9r / 3* Mex_155,.,Ames 27191,.,.,Included
+1352,Va10,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542958,.,.,repeated pedigree
+610,Va102,Goodman-Buckler Diversity Set,3,9,0.012,0.014,0.019,0.065,0.013,0.355,0.227,0.296,NSS,Va59 / Va60,.,PI 587151,United States,Virginia,Included
+1353,Va12C,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames14113,.,.,repeated pedigree
+611,Va14,Goodman-Buckler Diversity Set,3,3,0.007,0.021,0.578,0.025,0.006,0.054,0.282,0.028,NSS,VaCBS / 2* Va17,.,Ames 27192,United States,North Carolina,Included
+1354,Va14A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames14114,.,.,repeated pedigree
+612,Va17,Goodman-Buckler Diversity Set,3,3,0.009,0.002,0.575,0.04,0.004,0.098,0.269,0.003,NSS,Wf9 / T8,.,Ames 19002,United States,Virginia,Included
+613,Va22,Goodman-Buckler Diversity Set,3,9,0.009,0.009,0.18,0.043,0.022,0.315,0.251,0.17,NSS,C103 / 2* Va17,.,Ames 19328,United States,Virginia,Included
+1355,Va24,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames19008,.,.,repeated pedigree
+614,Va26,Goodman-Buckler Diversity Set,3,7,0.003,0.123,0.004,0.004,0.014,0.198,0.651,0.003,NSS,Oh43 / K155,.,PI 587149,United States,Virginia,Included
+1356,Va33,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542959,.,.,no pedigree information
+615,Va35,Goodman-Buckler Diversity Set,3,9,0.015,0.012,0.007,0.046,0.008,0.373,0.268,0.272,NSS,C103 / 2* T8,.,PI 587150,United States,Virginia,Included
+1357,Va35C,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames14115,.,.,repeated pedigree
+1358,Va36A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames14116,.,.,repeated pedigree
+1359,Va37,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames19010,.,.,poor stand
+352,Va38,Unique to Wisconsin Diversity Set,3,9,0.021,0.015,0.259,0.072,0.297,0.152,0.062,0.121,UK,VaCBS,.,Ames 19011,United States,Virginia,Included
+1360,Va3A,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames14112,.,.,x
+1361,Va4,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542955,.,.,x
+1362,Va5,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542956,.,.,poor agronomic performance
+353,Va52,Unique to Wisconsin Diversity Set,2,9,0.007,0.005,0.442,0.047,0.023,0.004,0.14,0.331,NSS,Wf9 / unknown,.,Ames 19014,United States,Virginia,Included
+616,Va59,Goodman-Buckler Diversity Set,3,9,0.004,0.016,0.005,0.037,0.004,0.311,0.222,0.399,NSS,C103 / 2* T8 // K4 / 2* C103,.,Ames 19016,United States,Virginia,Included
+1363,Va6,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI542957,.,.,x
+617,Va85,Goodman-Buckler Diversity Set,3,7,0.009,0.025,0.019,0.022,0.24,0.038,0.549,0.098,NSS,Virginia_Long_Ear_Synthetic,.,Ames 27193,United States,Virginia,Included
+618,Va99,Goodman-Buckler Diversity Set,3,9,0.049,0.025,0.117,0.091,0.408,0.007,0.3,0.003,NSS,Oh07B / Pa91,.,Ames 24989,United States,Virginia,Included
+619,VaW6,Goodman-Buckler Diversity Set,2,9,0.128,0.129,0.008,0.085,0.008,0.287,0.316,0.039,UK,.,.,Ames 19000,United States,Virginia,Included
+1364,W 1736,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22051,.,.,undesirable morpho-type
+1365,W 3607,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22052,.,.,undesirable morpho-type
+1366,W 3647,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22053,.,.,undesirable morpho-type
+1367,W 3722,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22054,.,.,undesirable morpho-type
+1368,W 3742,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22055,.,.,undesirable morpho-type
+1369,W 5543,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22056,.,.,undesirable morpho-type
+1370,W 5552,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22057,.,.,undesirable morpho-type
+1371,W 5579,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22058,.,.,undesirable morpho-type
+1372,W 6366,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22059,.,.,x
+1373,W 6462,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22060,.,.,x
+1374,W 6714,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22061,.,.,x
+1375,W 6720-1,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22062,.,.,x
+1376,W 6720-2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22063,.,.,x
+1377,W 6728,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22064,.,.,x
+1378,W 6757,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22065,.,.,x
+1379,W 6786,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames22066,.,.,x
+354,W_7151,Unique to Wisconsin Diversity Set,1,2,0.011,0.869,0.005,0.004,0.003,0.002,0.003,0.102,Sweet Corn,C13 / 3670 / Me2,.,Ames 22067,United States,Wisconsin,Included
+1380,W117,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI587153,.,.,repeated pedigree
+355,W117Ht,Unique to Wisconsin Diversity Set,1,5,0.067,0.034,0.004,0.004,0.672,0.15,0.006,0.062,NSS,643 / Minnesota_No_13,.,Ames 8399,United States,Iowa,Included
+621,W153R,Goodman-Buckler Diversity Set,2,5,0.005,0.003,0.003,0.008,0.602,0.087,0.265,0.026,NSS,W8 / 2* Ia153,.,NSL 30059,United States,Wisconsin,Included
+622,W182B,Goodman-Buckler Diversity Set,2,5,0.004,0.269,0.003,0.003,0.711,0.002,0.006,0.001,NSS,WD / W22,.,Ames 19330,United States,Wisconsin,Included
+356,W182BN,Unique to Wisconsin Diversity Set,2,5,0.003,0.249,0.004,0.002,0.733,0.001,0.006,0.002,NSS,WD / W22,.,PI 587155,United States,Wisconsin,Included
+357,W182BN,Unique to Wisconsin Diversity Set,2,5,0.003,0.243,0.004,0.002,0.74,0.002,0.005,0.001,NSS,WD / W22,.,PI 587155,United States,Wisconsin,Included
+1381,W182D,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30063,.,.,repeated pedigree
+358,W182E,Unique to Wisconsin Diversity Set,3,5,0.022,0.272,0.057,0.013,0.534,0.081,0.016,0.004,NSS,WD / W22,.,NSL 30074,United States,Wisconsin,Included
+1382,W182ETMS,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30054,.,.,repeated pedigree
+623,W22,Goodman-Buckler Diversity Set,3,5,0.009,0.004,0.025,0.004,0.937,0.003,0.016,0.002,NSS,Ill_B10 / W25,.,NSL 30053,United States,Wisconsin,Included
+1383,W22R,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30067,.,.,repeated pedigree
+359,W23,Unique to Wisconsin Diversity Set,2,5,0.008,0.205,0.187,0.039,0.531,0.007,0.008,0.015,NSS,Golden_Glow,.,NSL 30060,United States,Wisconsin,Included
+360,W24,Unique to Wisconsin Diversity Set,2,5,0.014,0.048,0.075,0.012,0.552,0.014,0.111,0.174,UK,OP_Minnesota_Golden_Daybreak,.,NSL 30064,United States,Wisconsin,Included
+361,W32,Unique to Wisconsin Diversity Set,3,5,0.177,0.012,0.24,0.01,0.55,0.005,0.003,0.003,NSS,.,.,NSL 30071,United States,Wisconsin,Included
+1384,W32TMS,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30057,.,.,repeated pedigree
+1385,W374R2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30055,.,.,repeated pedigree
+362,W37A,Unique to Wisconsin Diversity Set,2,5,0.009,0.033,0.305,0.069,0.547,0.018,0.014,0.005,NSS,Wisconsin_No_25_C2 / A374,.,NSL 30073,United States,Wisconsin,Included
+1386,W401,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames27194,.,.,too early
+363,W552,Unique to Wisconsin Diversity Set,2,9,0.006,0.002,0.349,0.017,0.399,0.004,0.22,0.003,NSS,W153R3 / San Geronimo,.,PI 520770,United States,Wisconsin,Included
+1387,W570,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI520771,.,.,x
+1388,W572,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI520772,.,.,x
+1389,W576,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI520773,.,.,x
+364,W59E,Unique to Wisconsin Diversity Set,2,9,0.012,0.316,0.009,0.007,0.47,0.12,0.061,0.005,NSS,WM13 / W_Va352 // W9 / A49,.,Ames 22767,United States,Wisconsin,Included
+365,W601S,Unique to Wisconsin Diversity Set,3,9,0.007,0.021,0.231,0.005,0.167,0.04,0.065,0.464,NSS,Wisconsin_Quality_Synthetic_C0 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+366,W602S,Unique to Wisconsin Diversity Set,3,9,0.004,0.103,0.124,0.099,0.032,0.056,0.21,0.371,NSS,Wisconsin_Quality_Synthetic_C1 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+367,W603S,Unique to Wisconsin Diversity Set,2,8,0.016,0.194,0.033,0.01,0.194,0.005,0.011,0.537,NSS,Wisconsin_Quality_Synthetic_C1 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+368,W604S,Unique to Wisconsin Diversity Set,3,8,0.084,0.089,0.007,0.019,0.145,0.011,0.009,0.636,NSS,Wisconsin_Quality_Synthetic_C1 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+369,W605S,Unique to Wisconsin Diversity Set,3,8,0.085,0.08,0.015,0.009,0.016,0.061,0.213,0.521,NSS,AR17026 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+370,W606S,Unique to Wisconsin Diversity Set,3,7,0.002,0.022,0.183,0.021,0.003,0.003,0.567,0.199,NSS,SCRO1 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+371,W607S,Unique to Wisconsin Diversity Set,3,7,0.011,0.004,0.01,0.008,0.03,0.211,0.701,0.027,NSS,BR52051 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+372,W608S,Unique to Wisconsin Diversity Set,3,9,0.005,0.014,0.011,0.043,0.142,0.283,0.493,0.009,NSS,CHO5015 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+373,W609S,Unique to Wisconsin Diversity Set,3,9,0.003,0.008,0.027,0.004,0.268,0.015,0.438,0.237,NSS,FS8BT / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+374,W610S,Unique to Wisconsin Diversity Set,2,9,0.427,0.007,0.007,0.292,0.014,0.135,0.116,0.001,SSS,CUBA164 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+375,W611S,Unique to Wisconsin Diversity Set,3,8,0.07,0.193,0.01,0.066,0.007,0.004,0.127,0.523,NSS,Wisconsin_Quality_Synthetic_C2 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+376,W612S,Unique to Wisconsin Diversity Set,2,8,0.1,0.174,0.005,0.043,0.036,0.005,0.035,0.602,NSS,Wisconsin_Quality_Synthetic_C2 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+377,W64A,Unique to Wisconsin Diversity Set,2,3,0.005,0.001,0.926,0.017,0.002,0.002,0.003,0.043,NSS,Wf9 / CI187-2,.,NSL 30058,United States,Wisconsin,Included
+1390,W64A ae,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26767,.,.,repeated pedigree
+1391,W64A ae/wx,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26768,.,.,repeated pedigree
+378,W701BC,Unique to Wisconsin Diversity Set,.,5,0.005,0.319,0.004,0.003,0.633,0.007,0.011,0.017,NSS,Golden_Glow_C25,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+379,W703,Unique to Wisconsin Diversity Set,1,9,0.027,0.384,0.098,0.026,0.27,0.063,0.053,0.08,UK,Northwestern_Dent_Inbred,.,NSL 30056,United States,Wisconsin,Included
+382,W801G,Unique to Wisconsin Diversity Set,.,9,0.116,0.094,0.193,0.028,0.01,0.273,0.261,0.026,NSS,LAX / B102,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+383,W802G,Unique to Wisconsin Diversity Set,.,9,0.007,0.184,0.142,0.007,0.254,0.143,0.015,0.248,NSS,WFISILO_C2,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+384,W803G,Unique to Wisconsin Diversity Set,4,9,0.012,0.071,0.214,0.015,0.093,0.416,0.046,0.134,NSS,WFISIHI_C2,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+385,W804G,Unique to Wisconsin Diversity Set,.,9,0.007,0.092,0.072,0.002,0.255,0.013,0.104,0.453,NSS,Wisconsin_Quality_Synthetic_C3 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+386,W805G,Unique to Wisconsin Diversity Set,.,9,0.117,0.174,0.03,0.008,0.041,0.007,0.15,0.472,NSS,Wisconsin_Quality_Synthetic_C3 (WQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+387,W806G,Unique to Wisconsin Diversity Set,.,1,0.786,0.003,0.017,0.066,0.009,0.022,0.094,0.002,SSS,GEM_Quality_Synthetic_C0 (GQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+388,W807G,Unique to Wisconsin Diversity Set,.,1,0.74,0.005,0.006,0.181,0.007,0.039,0.002,0.019,SSS,GEM_Quality_Synthetic_C0 (GQS),.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+389,W808G,Unique to Wisconsin Diversity Set,3,9,0.01,0.04,0.039,0.051,0.288,0.328,0.026,0.218,NSS,LAX,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+390,W809G,Unique to Wisconsin Diversity Set,.,1,0.772,0.003,0.01,0.107,0.002,0.029,0.071,0.007,SSS,AR16026 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+391,W810G,Unique to Wisconsin Diversity Set,.,7,0.008,0.003,0.003,0.002,0.017,0.265,0.654,0.049,NSS,AR17056 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+392,W811G,Unique to Wisconsin Diversity Set,4,1,0.721,0.001,0.002,0.138,0.002,0.131,0.002,0.001,SSS,CHIS775 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+393,W812G,Unique to Wisconsin Diversity Set,.,1,0.723,0.003,0.015,0.137,0.059,0.041,0.013,0.009,SSS,CUBA117 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+394,W813G,Unique to Wisconsin Diversity Set,.,1,0.735,0.003,0.064,0.004,0.133,0.057,0.003,0.002,SSS,CUBA164 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+395,W814G,Unique to Wisconsin Diversity Set,.,9,0.027,0.003,0.058,0.039,0.29,0.154,0.307,0.122,NSS,DK212T / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+396,W815G,Unique to Wisconsin Diversity Set,.,9,0.007,0.012,0.03,0.074,0.159,0.208,0.228,0.282,NSS,DK2888 / 2* unknown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+397,W816G,Unique to Wisconsin Diversity Set,4,7,0.004,0.003,0.13,0.003,0.043,0.083,0.541,0.194,NSS,DXXL370 / 2* unknown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+398,W817G,Unique to Wisconsin Diversity Set,.,9,0.006,0.085,0.009,0.01,0.291,0.018,0.366,0.215,NSS,FS8B(T) / 2* unknown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+399,W818G,Unique to Wisconsin Diversity Set,.,1,0.568,0.001,0.005,0.191,0.006,0.006,0.003,0.22,SSS,GUAT209 / 2* unknown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+400,W819G,Unique to Wisconsin Diversity Set,.,1,0.767,0.002,0.017,0.105,0.008,0.095,0.003,0.003,SSS,GUAT209 / 2* unknown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+401,W820G,Unique to Wisconsin Diversity Set,.,9,0.421,0.013,0.079,0.258,0.02,0.181,0.018,0.009,SSS,GUAT209 / 2* unknown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+402,W821G,Unique to Wisconsin Diversity Set,.,7,0.002,0.037,0.154,0.016,0.002,0.003,0.597,0.189,NSS,SCRO1 / 2* unkown,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),United States,Wisconsin,Included
+1392,W8304,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI601502,.,.,x
+380,W85,Unique to Wisconsin Diversity Set,1,2,0.025,0.936,0.002,0.021,0.007,0.002,0.003,0.005,Flint,Ottawa_Flint_BB85,.,Dr. Natalia de Leon - University of Wisconsin (ndeleongatti@wisc.edu),.,.,Included
+381,W9,Unique to Wisconsin Diversity Set,2,5,0.009,0.107,0.003,0.019,0.519,0.275,0.057,0.01,NSS,Golden_Glow,.,NSL 30065,United States,Wisconsin,Included
+625,WD,Goodman-Buckler Diversity Set,1,9,0.011,0.416,0.01,0.017,0.485,0.022,0.038,0.002,NSS,Wisconsin_No_25,.,Ames 27195,United States,Wisconsin,Included
+1393,WF~9 3-9,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2340,.,.,x
+626,Wf9,Goodman-Buckler Diversity Set,2,3,0.001,0.001,0.994,0.001,0.001,0.001,0.001,0.001,NSS,Reid_Yellow_Dent,.,Ames 19293,United States,Indiana,Included
+1394,WM13R,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30070,.,.,x
+1395,WM13RTMS,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30069,.,.,x
+403,WR3,Unique to Wisconsin Diversity Set,2,9,0.268,0.113,0.12,0.005,0.477,0.009,0.003,0.005,NSS,Osterland_Yellow_Dent,.,NSL 30066,United States,Wisconsin,Included
+1396,WR3TMS,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,NSL30072,.,.,x
+404,WU-TAN-TZAO,Unique to Wisconsin Diversity Set,3,9,0.033,0.018,0.163,0.03,0.439,0.283,0.01,0.024,UK,.,.,PI 391680,China,Shaanxi,Included
+1397,WX187-2,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26741,.,.,repeated pedigree
+1398,WX33-16,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26742,.,.,repeated pedigree
+1399,WX38-11,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26743,.,.,repeated pedigree
+405,WXB6,Unique to Wisconsin Diversity Set,3,9,0.005,0.004,0.003,0.125,0.392,0.01,0.457,0.002,UK,B6 / Unknown,.,Ames 26745,United States,Iowa,Included
+1400,WXHy,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26746,.,.,repeated pedigree
+1401,WXI198,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26747,.,.,repeated pedigree
+1402,WXK44,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26750,.,.,repeated pedigree
+1403,WXK55,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26751,.,.,repeated pedigree
+1404,WXK64,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26752,.,.,repeated pedigree
+1405,WXL289,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26753,.,.,repeated pedigree
+1406,WXL317,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26754,.,.,repeated pedigree
+1407,WXOs420,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26756,.,.,repeated pedigree
+1408,WXW22,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26757,.,.,repeated pedigree
+1409,WXWF9,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames26758,.,.,repeated pedigree
+406,YANG,Unique to Wisconsin Diversity Set,2,6,0.038,0.077,0.013,0.038,0.136,0.689,0.005,0.003,UK,.,.,PI 391672,China,Shaanxi,Included
+407,YE-4,Unique to Wisconsin Diversity Set,3,6,0.008,0.046,0.004,0.04,0.033,0.759,0.033,0.076,UK,.,.,Ames 2335,China,.,Included
+408,YE-CHI-HUNG,Unique to Wisconsin Diversity Set,3,6,0.011,0.053,0.005,0.063,0.017,0.827,0.019,0.006,UK,.,.,PI 391682,China,Shaanxi,Included
+409,YELLOW_3-4,Unique to Wisconsin Diversity Set,2,6,0.052,0.057,0.033,0.052,0.019,0.777,0.007,0.003,UK,.,.,Ames 2331,China,.,Included
+410,YING-55,Unique to Wisconsin Diversity Set,1,9,0.024,0.007,0.014,0.068,0.295,0.31,0.271,0.012,UK,.,.,PI 391665,China,Shaanxi,Included
+1410,YING-64,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,PI391666,.,.,non-uniform
+411,YONG_28,Unique to Wisconsin Diversity Set,2,9,0.18,0.276,0.14,0.009,0.11,0.169,0.1,0.016,UK,.,.,Ames 2333,China,.,Included
+1411,YONG-8,Not Included in Wisconsin Diversity Set,.,.,.,.,.,.,.,.,.,.,.,.,.,Ames2334,.,.,x
+627,Yu796-NS,Goodman-Buckler Diversity Set,2,9,0.013,0.318,0.068,0.009,0.315,0.065,0.06,0.152,UK,.,.,Ames 27196,United States,North Carolina,Included
+† Group with majority membership.  Lines in group 9 are mixed genotypes (less than 50% membership within one group).,,,,,,,,,,,,,,,,,,,
